@@ -13,6 +13,7 @@
 
 .candidate-panel{padding:22px;margin-bottom:22px}.candidate-grid{display:grid;grid-template-columns:1fr 1.8fr auto;align-items:end;gap:16px;margin-top:16px}#candidate-details{margin-top:12px;line-height:1.6}#page-title{overflow-wrap:anywhere}@media(max-width:860px){.candidate-grid{grid-template-columns:1fr 1.5fr}.candidate-grid>.button{grid-column:1/-1}}@media(max-width:560px){.candidate-panel{padding:16px}.candidate-grid{grid-template-columns:minmax(0,1fr)}.candidate-grid>.button{grid-column:auto}}
 
+.candidate-results{display:flex;flex-wrap:wrap;gap:10px;max-height:260px;overflow:auto;margin-top:16px}.candidate-results[hidden]{display:none}.candidate-results .button{white-space:normal;text-align:left}#candidate-search-status{margin-top:12px;color:var(--muted);font-size:.85rem}
 .candidate-grid{grid-template-columns:1fr 1.1fr 1.8fr}.candidate-grid>.button{grid-column:1/-1;justify-self:end}.office-panel{padding:22px;margin-bottom:22px}.office-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0}.office-stats>div{padding:13px 16px;background:#f4f8f6;border:1px solid #e2ebe7;border-radius:9px;display:flex;flex-direction:column;gap:4px}.office-stats span{font-size:.78rem;color:var(--muted)}.office-stats strong{font-size:1.35rem}.office-panel .section-heading a{font-size:.8rem}@media(max-width:860px){.candidate-grid{grid-template-columns:1fr 1fr}.candidate-grid>label:last-of-type{grid-column:1/-1}}@media(max-width:560px){.candidate-grid{grid-template-columns:minmax(0,1fr)}.candidate-grid>.button{justify-self:stretch}.office-panel{padding:16px}.office-stats{grid-template-columns:1fr 1fr;gap:10px}.office-stats>div{padding:12px}.office-stats strong{font-size:1.2rem}}
 
 .office-download{margin-top:16px}
@@ -32,7 +33,9 @@
  </section>
  <section class="panel candidate-panel" aria-labelledby="candidate-title">
   <div class="section-heading"><div><div class="eyebrow">GOVERNADOR · SENADOR · DEPUTADOS FEDERAIS E ESTADUAIS</div><h2 id="candidate-title">Escolha o cargo e o candidato</h2></div><span class="small-pill" id="candidate-count">222 candidatos</span></div>
-  <div class="candidate-grid"><label>Cargo<select id="cargo"></select></label><label>Buscar candidato<input id="candidate-search" type="search" placeholder="Nome, número ou partido"></label><label>Candidato<select id="candidate"></select></label><button id="summary-csv" class="button light">CSV dos candidatos do cargo</button></div>
+  <div class="candidate-grid"><label>Cargo<select id="cargo"></select></label><label>Buscar candidato<input id="candidate-search" type="search" placeholder="Nome, número ou partido" aria-controls="candidate-results"></label><label>Candidato<select id="candidate"></select></label><button id="summary-csv" class="button light">CSV dos candidatos do cargo</button></div>
+  <div id="candidate-results" class="candidate-results" hidden></div>
+  <p id="candidate-search-status" role="status" aria-live="polite" hidden></p>
  </section>
  <section class="panel office-panel" aria-labelledby="office-stats-title"><div class="section-heading"><h2 id="office-stats-title">Visão geral do cargo no Acre</h2><a id="official-office-source" href="https://resultados.tse.jus.br/" target="_blank" rel="noopener noreferrer">Resultado oficial</a></div><p class="section-note">Primeiro turno · Totais do estado, independentes dos filtros abaixo.</p><div id="office-stats" class="office-stats"></div><p class="section-note" id="office-note"></p><button id="office-csv" class="button light office-download">CSV do cargo · Todas as seções</button></section>
  <section class="filters panel" id="filters" aria-labelledby="filter-title">
@@ -349,16 +352,24 @@
  function populateCandidates(query=''){
   const terms=normalize(query).split(/\s+/).filter(Boolean);
   const scoped=DATA.candidates.filter(c=>c.cargo===state.cargo);
-  const items=scoped.filter(c=>c.numero===state.candidato||terms.every(t=>normalize(c.nome+' '+c.nomeCompleto+' '+c.numero+' '+c.partido).includes(t)));
-  $('candidate').replaceChildren(...items.map(c=>new Option(`${c.nome} · ${c.numero} · ${c.partido}`,c.numero)));
-  $('candidate').value=state.candidato;
+  const items=scoped.filter(c=>terms.every(t=>normalize(c.nome+' '+c.nomeCompleto+' '+c.numero+' '+c.partido).includes(t)));
+  const matched=items.some(c=>c.numero===state.candidato);
+  $('candidate').replaceChildren(...(!matched?[new Option(items.length?'Selecione um resultado':'Nenhum candidato encontrado','')]:[]),...items.map(c=>new Option(`${c.nome} · ${c.numero} · ${c.partido}`,c.numero)));
+  $('candidate').value=matched?state.candidato:'';
   $('candidate-count').textContent=`${items.length} de ${scoped.length} candidatos do cargo`;
+  const results=$('candidate-results'),status=$('candidate-search-status');
+  results.hidden=!terms.length;status.hidden=!terms.length;
+  status.textContent=items.length?`${items.length} resultado(s) neste cargo. Clique em um candidato para mostrar sua votação.`:'Nenhum candidato encontrado neste cargo. Confira o nome, número ou selecione outro cargo.';
+  results.replaceChildren(...(terms.length?items:[]).map(c=>{
+   const button=document.createElement('button');button.type='button';button.className='button light';button.textContent=`${c.nome} · ${c.numero} · ${c.partido}`;
+   button.addEventListener('click',()=>{setCandidate(c.numero);render();});return button;
+  }));
  }
  $('cargo').replaceChildren(...DATA.offices.map(o=>new Option(o.nome,o.codigo)));
  $('cargo').value=state.cargo;
  $('cargo').addEventListener('change',()=>{state.cargo=$('cargo').value;state.candidato='';$('candidate-search').value='';populateCandidates();setCandidate('');populateCandidates();render();});
  $('candidate-search').addEventListener('input',()=>populateCandidates($('candidate-search').value));
- $('candidate').addEventListener('change',()=>{setCandidate($('candidate').value);render();});
+ $('candidate').addEventListener('change',()=>{if(!$('candidate').value)return;setCandidate($('candidate').value);render();});
  $('office-csv').addEventListener('click',()=>{
   const office=DATA.offices.find(o=>o.codigo===state.cargo),scoped=DATA.candidates.filter(c=>c.cargo===state.cargo);
   const cell=v=>'"'+String(v).replace(/"/g,'""')+'"';
