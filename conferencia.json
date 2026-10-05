@@ -1,0 +1,34 @@
+{
+  "boletins": 2270,
+  "candidatos": 323,
+  "divergencias": {},
+  "nao_identificados": {
+    "7:10333": 16,
+    "6:4022": 17,
+    "6:4000": 23,
+    "7:20777": 3,
+    "6:4033": 5
+  },
+  "cargos": [
+    {
+      "cargo": "Governador",
+      "candidatos": 6,
+      "votosNominais": 439647
+    },
+    {
+      "cargo": "Senador",
+      "candidatos": 8,
+      "votosNominais": 875302
+    },
+    {
+      "cargo": "Deputado federal",
+      "candidatos": 87,
+      "votosNominais": 454449
+    },
+    {
+      "cargo": "Deputado estadual",
+      "candidatos": 222,
+      "votosNominais": 446781
+    }
+  ]
+}

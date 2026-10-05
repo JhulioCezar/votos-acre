@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Votos no Acre · Eleições 2026</title>
+<meta name="description" content="Explore governador, senador e deputados federais e estaduais do Acre. Dados oficiais do TSE por seção. Dados oficiais do TSE por município, zona e seção, com filtros, gráficos e mapa.">
+<meta name="theme-color" content="#142e32">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23142e32'/%3E%3Cpath d='M7 24V16h4v8m3 0V10h4v14m3 0V6h4v18' stroke='%2369e2c0' stroke-width='3'/%3E%3C/svg%3E">
+<style>/* INLINE_CSS */</style>
+</head>
+<body>
+<a class="skip" href="#filters">Ir para os filtros</a>
+<header class="topbar">
+ <a href="#" class="brand" aria-label="Início do painel"><span class="brand-icon" aria-hidden="true">▥</span><span>VOTOS NO ACRE<small>ELEIÇÕES 2026</small></span></a>
+ <nav aria-label="Navegação"><a href="#geografia">Mapa</a><a href="#analise">Gráficos</a><a href="#secoes">Seções</a><a href="#fontes">Fontes</a></nav>
+ <button id="share" class="button subtle">Compartilhar filtros</button>
+</header>
+<main>
+ <section class="intro" aria-labelledby="page-title">
+  <div><div class="eyebrow" id="office-name">Deputado estadual · 1º turno</div><h1 id="page-title">Antônio Pedro <span>55456</span></h1><p id="candidate-details"></p></div>
+  <div class="source-stamp"><span class="stamp-line">DADOS OFICIAIS DO TSE</span><strong>04 de outubro de 2026</strong><span>Coleta em 05/10/2026</span></div>
+ </section>
+ <section class="panel candidate-panel" aria-labelledby="candidate-title">
+  <div class="section-heading"><div><div class="eyebrow">GOVERNADOR · SENADOR · DEPUTADOS FEDERAIS E ESTADUAIS</div><h2 id="candidate-title">Escolha o cargo e o candidato</h2></div><span class="small-pill" id="candidate-count">222 candidatos</span></div>
+  <div class="candidate-grid"><label>Cargo<select id="cargo"></select></label><label>Buscar candidato<input id="candidate-search" type="search" placeholder="Nome, número ou partido"></label><label>Candidato<select id="candidate"></select></label><button id="summary-csv" class="button light">CSV dos candidatos do cargo</button></div>
+ </section>
+ <section class="panel office-panel" aria-labelledby="office-stats-title"><div class="section-heading"><h2 id="office-stats-title">Visão geral do cargo no Acre</h2><a id="official-office-source" href="https://resultados.tse.jus.br/" target="_blank" rel="noopener noreferrer">Resultado oficial</a></div><p class="section-note">Primeiro turno · Totais do estado, independentes dos filtros abaixo.</p><div id="office-stats" class="office-stats"></div><p class="section-note" id="office-note"></p><button id="office-csv" class="button light office-download">CSV do cargo · Todas as seções</button></section>
+ <section class="filters panel" id="filters" aria-labelledby="filter-title">
+  <div class="filter-heading"><h2 id="filter-title">Filtrar a votação</h2><button id="reset" class="text-button">Limpar filtros</button></div>
+  <div class="filter-grid">
+   <label>Município<select id="municipio"><option value="">Todos os municípios</option></select></label>
+   <label>Zona eleitoral<select id="zona"><option value="">Todas as zonas</option></select></label>
+   <label>Local de votação<select id="local"><option value="">Todos os locais</option></select></label>
+   <label>Seções<select id="presence"><option value="all">Todas as seções</option><option value="positive">Com votos em 55456</option><option value="zero">Sem votos em 55456</option></select></label>
+   <label class="search-label">Buscar seção ou município<input id="search" type="search" placeholder="Ex.: Xapuri ou seção 0012" autocomplete="off"></label>
+   <label>Votos mínimos<input id="min" type="number" min="0" step="1" placeholder="0" inputmode="numeric"></label>
+   <label>Votos máximos<input id="max" type="number" min="0" step="1" placeholder="Sem limite" inputmode="numeric"></label>
+   <div class="filter-download"><button id="csv" class="button light">Exportar seleção CSV</button></div>
+  </div>
+  <div class="filter-status"><span id="selection-description">Todo o Acre</span><span id="filter-error" role="alert"></span><span class="live-count" id="result-count" aria-live="polite"></span></div>
+ </section>
+ <section class="metrics" aria-label="Resumo da seleção">
+  <div class="metric featured"><span>Votos na seleção</span><strong id="total-votes">5.118</strong><small id="vote-share">100% dos votos do candidato no Acre</small></div>
+  <div class="metric"><span>Seções com votos</span><strong id="positive-sections">1.332</strong><small id="positive-share">entre as seções selecionadas</small></div>
+  <div class="metric"><span>Municípios com votos</span><strong id="active-municipalities">21</strong><small id="municipality-share">na seleção</small></div>
+  <div class="metric"><span>Zonas com votos</span><strong id="active-zones">9</strong><small id="zone-share">na seleção</small></div>
+ </section>
+ <div class="main-grid">
+  <section id="geografia" class="panel map-panel" aria-labelledby="map-title">
+   <div class="section-heading"><div><span class="eyebrow">DISTRIBUIÇÃO TERRITORIAL</span><h2 id="map-title">Onde estão os votos</h2></div><span class="small-pill">22 municípios</span></div>
+   <p class="section-note">Toque em um município para filtrar. A cor indica os votos na seleção.</p>
+   <div class="map-shell"><svg id="acre-map" viewBox="0 0 900 470" role="group" aria-labelledby="map-title map-description"><desc id="map-description">Mapa dos municípios do Acre. Use Tab para acessar um município e Enter para filtrar seus votos.</desc></svg><div class="map-tools" aria-label="Zoom do mapa"><button id="zoom-in" aria-label="Ampliar mapa">+</button><button id="zoom-out" aria-label="Reduzir mapa">−</button><button id="zoom-reset" aria-label="Restaurar mapa">⌂</button></div><div id="map-tooltip" class="map-tooltip" hidden></div><span class="north" aria-hidden="true">N<br>↑</span></div>
+   <div class="map-bottom"><span id="map-current">Todo o Acre</span><strong id="legend-max">5.118 votos na seleção</strong></div><div id="map-legend" class="legend" aria-label="Faixas de votos por município"></div><p class="legend-note">Cada cor representa uma faixa de votos por município. As faixas acompanham a seleção.</p>
+   <p class="map-disclaimer">Localização por município, com limites do IBGE. Não há coordenadas dos locais de votação nesta base; o mapa não representa endereços de seções nem localização individual de eleitores.</p>
+   <div id="map-summary" class="map-summary">Selecione um município no mapa para explorar suas seções.</div>
+  </section>
+  <section id="analise" class="panel ranking-panel" aria-labelledby="rank-title">
+   <div class="section-heading"><div><span class="eyebrow">COMPARAR A VOTAÇÃO</span><h2 id="rank-title">Ranking da seleção</h2></div></div>
+   <div class="chart-controls"><label class="sr-only" for="grouping">Agrupamento do gráfico</label><select id="grouping"><option value="municipio">Por município</option><option value="zona">Por zona eleitoral</option><option value="local">Por local de votação</option></select><label class="sr-only" for="rank-limit">Quantidade exibida</label><select id="rank-limit"><option value="10">Top 10</option><option value="all">Todos</option></select></div>
+   <div class="rank-axis"><span>LOCAL</span><span>VOTOS</span></div><div id="ranking" class="ranking"></div><p class="section-note" id="ranking-note">Clique em uma barra para filtrar.</p>
+  </section>
+ </div>
+ <div class="secondary-grid">
+  <section class="panel distribution-panel" aria-labelledby="distribution-title"><div class="section-heading"><div><span class="eyebrow">VOTOS POR SEÇÃO</span><h2 id="distribution-title">Quantos votos em cada seção?</h2></div><span class="small-pill" id="median-value">2.270 seções analisadas</span></div><p class="section-note">À esquerda, os votos recebidos em uma seção. À direita, quantas seções tiveram essa quantidade. Clique em uma faixa para filtrar.</p><div id="distribution" class="distribution"></div><div class="distribution-caption" id="distribution-caption"></div></section>
+  <section class="panel coverage-panel" aria-labelledby="coverage-title"><div class="section-heading"><div><span class="eyebrow">PRESENÇA NAS URNAS</span><h2 id="coverage-title">Cobertura da seleção</h2></div></div><div class="coverage-body"><div class="donut" id="coverage-donut" role="img"><div><strong id="coverage-percent">58,7%</strong><span>com votos</span></div></div><div class="coverage-key"><div><i class="dot green"></i><span>Seções com votos</span><strong id="coverage-positive">1.332</strong></div><div><i class="dot gray"></i><span>Seções sem votos</span><strong id="coverage-zero">938</strong></div><p id="coverage-note">2.270 seções consultadas</p></div></div></section>
+ </div>
+ <section class="panel table-panel" id="secoes" aria-labelledby="table-title">
+  <div class="section-heading"><div><span class="eyebrow">DADOS COMPLETOS</span><h2 id="table-title">Votação por seção</h2></div><div class="table-tools"><label>Ordenar<select id="sort"><option value="votes-desc">Mais votos</option><option value="votes-asc">Menos votos</option><option value="municipality">Município e seção</option><option value="section">Zona e seção</option></select></label><button id="table-csv" class="button light">Exportar CSV</button></div></div>
+  <p id="table-note" class="section-note"></p>
+  <div class="table-scroll"><table><thead><tr><th scope="col">Município</th><th scope="col">Código TSE</th><th scope="col">Zona</th><th scope="col">Seção</th><th scope="col">Agregadas</th><th scope="col">Local</th><th scope="col" class="number">Votos</th><th scope="col">Situação</th><th scope="col">Boletim</th></tr></thead><tbody id="table-body"></tbody></table></div>
+  <div class="pagination"><span id="page-description" aria-live="polite"></span><div><label>Por página<select id="page-size"><option>25</option><option>50</option><option>100</option></select></label><button id="prev" class="button light">Anterior</button><button id="next" class="button light">Próxima</button></div></div>
+ </section>
+ <footer id="fontes"><div class="footer-main"><div><strong>Sobre os dados</strong><p>Governador, senador, deputado federal e deputado estadual do Acre: 323 candidatos no resumo oficial. Primeiro turno de 04/10/2026. Dados extraídos do TSE: 2.270 boletins. Os votos de candidato são os registros nominais dos boletins. A destinação dos votos e a situação de cada candidatura aparecem conforme o TSE na data da coleta. O resumo estadual separa válidos, brancos, nulos e anulados sub judice. Este painel usa uma fotografia da coleta de 05/10/2026, sem atualização automática.</p><p>Seções agregadas têm seus votos contabilizados na seção principal. “Local” é o código do local de votação e deve ser lido em conjunto com município e zona. Não há identificação de eleitores nesta base.</p></div><div class="footer-links"><a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6259/uf/ac/mu/todos/cargo/7/vis/nominal" target="_blank" rel="noopener noreferrer">Resultados do TSE</a><a href="https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0007-e006259-u.json" target="_blank" rel="noopener noreferrer">Deputado estadual · Total oficial</a><a href="https://servicodados.ibge.gov.br/api/docs/malhas?versao=3" target="_blank" rel="noopener noreferrer">Malhas do IBGE</a></div></div><div class="footer-bottom"><span>Painel independente · Não é um site oficial da Justiça Eleitoral.</span><span>Desenvolvido por <strong>Jhulio Soluções</strong></span></div></footer>
+</main>
+<div id="toast" class="toast" role="status" hidden></div>
+<noscript><p class="noscript">Ative o JavaScript para usar os filtros, gráficos e mapa. Esta versão precisa de JavaScript para explorar os quatro cargos.</p></noscript>
+<script id="dashboard-data" type="application/json">/* INLINE_DATA */</script>
+<script>/* INLINE_APP */</script>
+</body>
+</html>
