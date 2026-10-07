@@ -1,0 +1,5876 @@
+{
+  "rules": "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-677-de-16-de-dezembro-de-2021",
+  "cases": [
+    {
+      "id": "5:111",
+      "candidateId": "5:111",
+      "source": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0005-e006259-u.json",
+      "checked": "07/10/2026",
+      "process": null,
+      "decisionURL": null,
+      "judicialNote": "A situação exibida é a destinação dos votos registrada na base eleitoral. Não foi incorporada decisão judicial posterior nem andamento processual. Número do processo ainda não cadastrado.",
+      "scenario": null
+    },
+    {
+      "id": "6:1515",
+      "candidateId": "6:1515",
+      "source": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0006-e006259-u.json",
+      "checked": "07/10/2026",
+      "process": null,
+      "decisionURL": null,
+      "judicialNote": "A situação exibida é a destinação dos votos registrada na base eleitoral. Não foi incorporada decisão judicial posterior nem andamento processual. Número do processo ainda não cadastrado.",
+      "scenario": {
+        "base": {
+          "valid": 462485,
+          "qe": 57811,
+          "vacancies": 8,
+          "groups": [
+            {
+              "id": "70",
+              "name": "AVANTE",
+              "votes": 682,
+              "nominal": 614,
+              "legend": 68,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 3020,
+              "nominal": 1038,
+              "legend": 1982,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 609,
+              "nominal": 479,
+              "legend": 130,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 46510,
+              "nominal": 44543,
+              "legend": 1967,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2035,
+              "nominal": 1616,
+              "legend": 419,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "35",
+              "name": "DEMOCRATA",
+              "votes": 15,
+              "nominal": 5,
+              "legend": 10,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 173910,
+              "nominal": 169443,
+              "legend": 4467,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 428,
+              "nominal": 294,
+              "legend": 134,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 59239,
+              "nominal": 57025,
+              "legend": 2214,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 1682,
+              "nominal": 1376,
+              "legend": 306,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 68521,
+              "nominal": 67366,
+              "legend": 1155,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 356,
+              "nominal": 282,
+              "legend": 74,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 83859,
+              "nominal": 83091,
+              "legend": 768,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 21619,
+              "nominal": 21150,
+              "legend": 469,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            }
+          ],
+          "winners": [
+            "1101",
+            "4444",
+            "4422",
+            "2244",
+            "1010",
+            "1533",
+            "6513",
+            "1111"
+          ],
+          "awards": [
+            {
+              "number": "1101",
+              "name": "SOCORRO NERI",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 39587,
+              "phase": "Quociente partidário",
+              "minimum": 5781.1,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "4444",
+              "name": "DR. FÁBIO RUEDA",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 33203,
+              "phase": "Quociente partidário",
+              "minimum": 5781.1,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "4422",
+              "name": "CORONEL ULYSSES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 33155,
+              "phase": "Quociente partidário",
+              "minimum": 5781.1,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "2244",
+              "name": "JÚNIOR BETÃO",
+              "party": "PL",
+              "group": "PL",
+              "votes": 13732,
+              "phase": "Quociente partidário",
+              "minimum": 5781.1,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "1010",
+              "name": "ROBERTO DUARTE",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 24854,
+              "phase": "Quociente partidário",
+              "minimum": 5781.1,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "1533",
+              "name": "PEDRO LONGO",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 26263,
+              "phase": "Quociente partidário",
+              "minimum": 5781.1,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "6513",
+              "name": "PERPÉTUA ALMEIDA",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 15800,
+              "phase": "Sobras 80/20",
+              "minimum": 11562.2,
+              "round": 1,
+              "average": 46510.0
+            },
+            {
+              "number": "1111",
+              "name": "ZÉ ADRIANO",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 23810,
+              "phase": "Sobras 80/20",
+              "minimum": 11562.2,
+              "round": 2,
+              "average": 43477.5
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "6513",
+              "name": "PERPÉTUA ALMEIDA",
+              "group": "PT/PC do B/PV",
+              "average": 46510.0,
+              "denominator": 1,
+              "votes": 46510,
+              "competitors": [
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 46510,
+                  "denominator": 1,
+                  "average": 46510.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 173910,
+                  "denominator": 4,
+                  "average": 43477.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 83859,
+                  "denominator": 2,
+                  "average": 41929.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 68521,
+                  "denominator": 2,
+                  "average": 34260.5
+                },
+                {
+                  "group": "PL",
+                  "votes": 59239,
+                  "denominator": 2,
+                  "average": 29619.5
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "1111",
+              "name": "ZÉ ADRIANO",
+              "group": "UNIÃO/PP",
+              "average": 43477.5,
+              "denominator": 4,
+              "votes": 173910,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 173910,
+                  "denominator": 4,
+                  "average": 43477.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 83859,
+                  "denominator": 2,
+                  "average": 41929.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 68521,
+                  "denominator": 2,
+                  "average": 34260.5
+                },
+                {
+                  "group": "PL",
+                  "votes": 59239,
+                  "denominator": 2,
+                  "average": 29619.5
+                }
+              ]
+            }
+          ]
+        },
+        "hypothetical": {
+          "valid": 468612,
+          "qe": 58576,
+          "vacancies": 8,
+          "groups": [
+            {
+              "id": "70",
+              "name": "AVANTE",
+              "votes": 682,
+              "nominal": 614,
+              "legend": 68,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 3020,
+              "nominal": 1038,
+              "legend": 1982,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 609,
+              "nominal": 479,
+              "legend": 130,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 46510,
+              "nominal": 44543,
+              "legend": 1967,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2035,
+              "nominal": 1616,
+              "legend": 419,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "35",
+              "name": "DEMOCRATA",
+              "votes": 15,
+              "nominal": 5,
+              "legend": 10,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 173910,
+              "nominal": 169443,
+              "legend": 4467,
+              "seats": 4,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 428,
+              "nominal": 294,
+              "legend": 134,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 59239,
+              "nominal": 57025,
+              "legend": 2214,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 1682,
+              "nominal": 1376,
+              "legend": 306,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 68521,
+              "nominal": 67366,
+              "legend": 1155,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 356,
+              "nominal": 282,
+              "legend": 74,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 89986,
+              "nominal": 89218,
+              "legend": 768,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 21619,
+              "nominal": 21150,
+              "legend": 469,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            }
+          ],
+          "winners": [
+            "1101",
+            "4444",
+            "2244",
+            "1010",
+            "1533",
+            "4422",
+            "1577",
+            "1111"
+          ],
+          "awards": [
+            {
+              "number": "1101",
+              "name": "SOCORRO NERI",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 39587,
+              "phase": "Quociente partidário",
+              "minimum": 5857.6,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "4444",
+              "name": "DR. FÁBIO RUEDA",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 33203,
+              "phase": "Quociente partidário",
+              "minimum": 5857.6,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "2244",
+              "name": "JÚNIOR BETÃO",
+              "party": "PL",
+              "group": "PL",
+              "votes": 13732,
+              "phase": "Quociente partidário",
+              "minimum": 5857.6,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "1010",
+              "name": "ROBERTO DUARTE",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 24854,
+              "phase": "Quociente partidário",
+              "minimum": 5857.6,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "1533",
+              "name": "PEDRO LONGO",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 26263,
+              "phase": "Quociente partidário",
+              "minimum": 5857.6,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "4422",
+              "name": "CORONEL ULYSSES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 33155,
+              "phase": "Sobras 80/20",
+              "minimum": 11715.2,
+              "round": 1,
+              "average": 57970.0
+            },
+            {
+              "number": "1577",
+              "name": "NEY AMORIM",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 22775,
+              "phase": "Sobras 80/20",
+              "minimum": 11715.2,
+              "round": 2,
+              "average": 44993.0
+            },
+            {
+              "number": "1111",
+              "name": "ZÉ ADRIANO",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 23810,
+              "phase": "Sobras 80/20",
+              "minimum": 11715.2,
+              "round": 3,
+              "average": 43477.5
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "4422",
+              "name": "CORONEL ULYSSES",
+              "group": "UNIÃO/PP",
+              "average": 57970.0,
+              "denominator": 3,
+              "votes": 173910,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 173910,
+                  "denominator": 3,
+                  "average": 57970.0
+                },
+                {
+                  "group": "MDB",
+                  "votes": 89986,
+                  "denominator": 2,
+                  "average": 44993.0
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 68521,
+                  "denominator": 2,
+                  "average": 34260.5
+                },
+                {
+                  "group": "PL",
+                  "votes": 59239,
+                  "denominator": 2,
+                  "average": 29619.5
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "1577",
+              "name": "NEY AMORIM",
+              "group": "MDB",
+              "average": 44993.0,
+              "denominator": 2,
+              "votes": 89986,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 89986,
+                  "denominator": 2,
+                  "average": 44993.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 173910,
+                  "denominator": 4,
+                  "average": 43477.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 68521,
+                  "denominator": 2,
+                  "average": 34260.5
+                },
+                {
+                  "group": "PL",
+                  "votes": 59239,
+                  "denominator": 2,
+                  "average": 29619.5
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "1111",
+              "name": "ZÉ ADRIANO",
+              "group": "UNIÃO/PP",
+              "average": 43477.5,
+              "denominator": 4,
+              "votes": 173910,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 173910,
+                  "denominator": 4,
+                  "average": 43477.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 68521,
+                  "denominator": 2,
+                  "average": 34260.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 89986,
+                  "denominator": 3,
+                  "average": 29995.333333333332
+                },
+                {
+                  "group": "PL",
+                  "votes": 59239,
+                  "denominator": 2,
+                  "average": 29619.5
+                }
+              ]
+            }
+          ]
+        },
+        "verifiedBase": true,
+        "hypothesis": "Somente os 6.127 votos de ANTÔNIA LÚCIA passam a válidos para a candidatura e o partido; todos os demais dados permanecem iguais.",
+        "conclusion": "Nesta hipótese, Ney Amorim passa a ocupar uma vaga; Perpétua Almeida deixa de ocupar uma vaga; Zé Adriano permanece. Não representa decisão ou retotalização oficial.",
+        "explanation": "A federação PT/PCdoB/PV tem 46.510 votos. Na base oficial, supera o mínimo de 46.248,80 (80% do QE). Na hipótese, o mínimo sobe para 46.860,80 e a federação fica abaixo dele. As oito vagas são preenchidas na distribuição inicial e na etapa de sobras 80/20, sem vagas remanescentes para uma etapa posterior. A federação União/PP mantém quatro vagas.",
+        "rules": "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-677-de-16-de-dezembro-de-2021"
+      }
+    },
+    {
+      "id": "7:22234",
+      "candidateId": "7:22234",
+      "source": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0007-e006259-u.json",
+      "checked": "07/10/2026",
+      "process": null,
+      "decisionURL": null,
+      "judicialNote": "A situação exibida é a destinação dos votos registrada na base eleitoral. Não foi incorporada decisão judicial posterior nem andamento processual. Número do processo ainda não cadastrado.",
+      "scenario": {
+        "base": {
+          "valid": 470012,
+          "qe": 19584,
+          "vacancies": 24,
+          "groups": [
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 162576,
+              "nominal": 156049,
+              "legend": 6527,
+              "seats": 9,
+              "initialSeats": 8,
+              "qp": 8
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 38935,
+              "nominal": 37579,
+              "legend": 1356,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "55",
+              "name": "PSD",
+              "votes": 39920,
+              "nominal": 37917,
+              "legend": 2003,
+              "seats": 2,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 20592,
+              "nominal": 19776,
+              "legend": 816,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 67900,
+              "nominal": 62796,
+              "legend": 5104,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 32281,
+              "nominal": 28043,
+              "legend": 4238,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 258,
+              "nominal": 87,
+              "legend": 171,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 325,
+              "nominal": 160,
+              "legend": 165,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 17393,
+              "nominal": 16450,
+              "legend": 943,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2480,
+              "nominal": 1027,
+              "legend": 1453,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 23692,
+              "nominal": 23408,
+              "legend": 284,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 2574,
+              "nominal": 2501,
+              "legend": 73,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 61086,
+              "nominal": 57828,
+              "legend": 3258,
+              "seats": 3,
+              "initialSeats": 3,
+              "qp": 3
+            }
+          ],
+          "winners": [
+            "11122",
+            "44777",
+            "11555",
+            "11444",
+            "11234",
+            "44222",
+            "11106",
+            "44333",
+            "15777",
+            "55555",
+            "55456",
+            "12123",
+            "22133",
+            "22333",
+            "22555",
+            "65123",
+            "30000",
+            "10888",
+            "10111",
+            "10456",
+            "15555",
+            "44123",
+            "45444",
+            "22344"
+          ],
+          "awards": [
+            {
+              "number": "11122",
+              "name": "NICOLAU JÚNIOR",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 18149,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44777",
+              "name": "FAGNER CALEGARIO",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 13640,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11555",
+              "name": "CLODOALDO RODRIGUES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13575,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11444",
+              "name": "ANDRÉ DA DROGA VALE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13173,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11234",
+              "name": "MANOEL MORAES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 12837,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44222",
+              "name": "ADAILTON CRUZ",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 11476,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11106",
+              "name": "SAMIR BESTENE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 11335,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44333",
+              "name": "TIO PABLO BREGENSE",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9981,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15777",
+              "name": "MARCUS ALEXANDRE",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12872,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55555",
+              "name": "JAILSON AMORIM",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5158,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55456",
+              "name": "ANTONIO PEDRO",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5118,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "12123",
+              "name": "TCHÊ",
+              "party": "PDT",
+              "group": "PDT",
+              "votes": 10003,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22133",
+              "name": "CHIQUINHO DO DUDA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 11514,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22333",
+              "name": "ARLENILSON CUNHA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 10144,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22555",
+              "name": "RAIMUNDO NENÉM",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8069,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "65123",
+              "name": "EDVALDO MAGALHÃES",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 9273,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "30000",
+              "name": "EMERSON JARUDE",
+              "party": "NOVO",
+              "group": "NOVO",
+              "votes": 9434,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10888",
+              "name": "EDUARDO RIBEIRO",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 11282,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10111",
+              "name": "GENE DINIZ",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 9835,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10456",
+              "name": "TADEU HASSEM",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 8598,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15555",
+              "name": "TANIZIO SÁ",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12023,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 1,
+              "average": 19467.5
+            },
+            {
+              "number": "44123",
+              "name": "AFONSO FERNANDES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9593,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 2,
+              "average": 18064.0
+            },
+            {
+              "number": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "party": "PSDB",
+              "group": "PSDB/CIDADANIA",
+              "votes": 4933,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 3,
+              "average": 17393.0
+            },
+            {
+              "number": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8029,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 4,
+              "average": 16975.0
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "15555",
+              "name": "TANIZIO SÁ",
+              "group": "MDB",
+              "average": 19467.5,
+              "denominator": 2,
+              "votes": 38935,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 2,
+                  "average": 19467.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "44123",
+              "name": "AFONSO FERNANDES",
+              "group": "UNIÃO/PP",
+              "average": 18064.0,
+              "denominator": 9,
+              "votes": 162576,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "group": "PSDB/CIDADANIA",
+              "average": 17393.0,
+              "denominator": 1,
+              "votes": 17393,
+              "competitors": [
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "group": "PL",
+              "average": 16975.0,
+              "denominator": 4,
+              "votes": 67900,
+              "competitors": [
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            }
+          ]
+        },
+        "hypothetical": {
+          "valid": 473080,
+          "qe": 19712,
+          "vacancies": 24,
+          "groups": [
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 162576,
+              "nominal": 156049,
+              "legend": 6527,
+              "seats": 9,
+              "initialSeats": 8,
+              "qp": 8
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 38935,
+              "nominal": 37579,
+              "legend": 1356,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "55",
+              "name": "PSD",
+              "votes": 39920,
+              "nominal": 37917,
+              "legend": 2003,
+              "seats": 2,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 20592,
+              "nominal": 19776,
+              "legend": 816,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 70968,
+              "nominal": 65864,
+              "legend": 5104,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 32281,
+              "nominal": 28043,
+              "legend": 4238,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 258,
+              "nominal": 87,
+              "legend": 171,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 325,
+              "nominal": 160,
+              "legend": 165,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 17393,
+              "nominal": 16450,
+              "legend": 943,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2480,
+              "nominal": 1027,
+              "legend": 1453,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 23692,
+              "nominal": 23408,
+              "legend": 284,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 2574,
+              "nominal": 2501,
+              "legend": 73,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 61086,
+              "nominal": 57828,
+              "legend": 3258,
+              "seats": 3,
+              "initialSeats": 3,
+              "qp": 3
+            }
+          ],
+          "winners": [
+            "11122",
+            "44777",
+            "11555",
+            "11444",
+            "11234",
+            "44222",
+            "11106",
+            "44333",
+            "15777",
+            "55555",
+            "55456",
+            "12123",
+            "22133",
+            "22333",
+            "22555",
+            "65123",
+            "30000",
+            "10888",
+            "10111",
+            "10456",
+            "15555",
+            "44123",
+            "22344",
+            "45444"
+          ],
+          "awards": [
+            {
+              "number": "11122",
+              "name": "NICOLAU JÚNIOR",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 18149,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44777",
+              "name": "FAGNER CALEGARIO",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 13640,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11555",
+              "name": "CLODOALDO RODRIGUES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13575,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11444",
+              "name": "ANDRÉ DA DROGA VALE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13173,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11234",
+              "name": "MANOEL MORAES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 12837,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44222",
+              "name": "ADAILTON CRUZ",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 11476,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11106",
+              "name": "SAMIR BESTENE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 11335,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44333",
+              "name": "TIO PABLO BREGENSE",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9981,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15777",
+              "name": "MARCUS ALEXANDRE",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12872,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55555",
+              "name": "JAILSON AMORIM",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5158,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55456",
+              "name": "ANTONIO PEDRO",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5118,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "12123",
+              "name": "TCHÊ",
+              "party": "PDT",
+              "group": "PDT",
+              "votes": 10003,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22133",
+              "name": "CHIQUINHO DO DUDA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 11514,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22333",
+              "name": "ARLENILSON CUNHA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 10144,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22555",
+              "name": "RAIMUNDO NENÉM",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8069,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "65123",
+              "name": "EDVALDO MAGALHÃES",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 9273,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "30000",
+              "name": "EMERSON JARUDE",
+              "party": "NOVO",
+              "group": "NOVO",
+              "votes": 9434,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10888",
+              "name": "EDUARDO RIBEIRO",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 11282,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10111",
+              "name": "GENE DINIZ",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 9835,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10456",
+              "name": "TADEU HASSEM",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 8598,
+              "phase": "Quociente partidário",
+              "minimum": 1971.2,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15555",
+              "name": "TANIZIO SÁ",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12023,
+              "phase": "Sobras 80/20",
+              "minimum": 3942.4,
+              "round": 1,
+              "average": 19467.5
+            },
+            {
+              "number": "44123",
+              "name": "AFONSO FERNANDES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9593,
+              "phase": "Sobras 80/20",
+              "minimum": 3942.4,
+              "round": 2,
+              "average": 18064.0
+            },
+            {
+              "number": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8029,
+              "phase": "Sobras 80/20",
+              "minimum": 3942.4,
+              "round": 3,
+              "average": 17742.0
+            },
+            {
+              "number": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "party": "PSDB",
+              "group": "PSDB/CIDADANIA",
+              "votes": 4933,
+              "phase": "Sobras 80/20",
+              "minimum": 3942.4,
+              "round": 4,
+              "average": 17393.0
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "15555",
+              "name": "TANIZIO SÁ",
+              "group": "MDB",
+              "average": 19467.5,
+              "denominator": 2,
+              "votes": 38935,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 2,
+                  "average": 19467.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 70968,
+                  "denominator": 4,
+                  "average": 17742.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "44123",
+              "name": "AFONSO FERNANDES",
+              "group": "UNIÃO/PP",
+              "average": 18064.0,
+              "denominator": 9,
+              "votes": 162576,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 70968,
+                  "denominator": 4,
+                  "average": 17742.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "group": "PL",
+              "average": 17742.0,
+              "denominator": 4,
+              "votes": 70968,
+              "competitors": [
+                {
+                  "group": "PL",
+                  "votes": 70968,
+                  "denominator": 4,
+                  "average": 17742.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "group": "PSDB/CIDADANIA",
+              "average": 17393.0,
+              "denominator": 1,
+              "votes": 17393,
+              "competitors": [
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "PL",
+                  "votes": 70968,
+                  "denominator": 5,
+                  "average": 14193.6
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            }
+          ]
+        },
+        "verifiedBase": true,
+        "hypothesis": "Somente os 3.068 votos de BENÉ DAMASCENO passam a válidos para a candidatura e o partido; todos os demais dados permanecem iguais.",
+        "rules": "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-677-de-16-de-dezembro-de-2021",
+        "conclusion": "Nesta hipótese, a lista de eleitos permanece igual. Não representa decisão ou retotalização oficial.",
+        "explanation": "A hipótese recalcula votos válidos, QE, QP, requisitos individuais e todas as rodadas das sobras. Cada caso é simulado isoladamente, sem validar simultaneamente outros candidatos."
+      }
+    },
+    {
+      "id": "7:45666",
+      "candidateId": "7:45666",
+      "source": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0007-e006259-u.json",
+      "checked": "07/10/2026",
+      "process": null,
+      "decisionURL": null,
+      "judicialNote": "A situação exibida é a destinação dos votos registrada na base eleitoral. Não foi incorporada decisão judicial posterior nem andamento processual. Número do processo ainda não cadastrado.",
+      "scenario": {
+        "base": {
+          "valid": 470012,
+          "qe": 19584,
+          "vacancies": 24,
+          "groups": [
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 162576,
+              "nominal": 156049,
+              "legend": 6527,
+              "seats": 9,
+              "initialSeats": 8,
+              "qp": 8
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 38935,
+              "nominal": 37579,
+              "legend": 1356,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "55",
+              "name": "PSD",
+              "votes": 39920,
+              "nominal": 37917,
+              "legend": 2003,
+              "seats": 2,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 20592,
+              "nominal": 19776,
+              "legend": 816,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 67900,
+              "nominal": 62796,
+              "legend": 5104,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 32281,
+              "nominal": 28043,
+              "legend": 4238,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 258,
+              "nominal": 87,
+              "legend": 171,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 325,
+              "nominal": 160,
+              "legend": 165,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 17393,
+              "nominal": 16450,
+              "legend": 943,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2480,
+              "nominal": 1027,
+              "legend": 1453,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 23692,
+              "nominal": 23408,
+              "legend": 284,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 2574,
+              "nominal": 2501,
+              "legend": 73,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 61086,
+              "nominal": 57828,
+              "legend": 3258,
+              "seats": 3,
+              "initialSeats": 3,
+              "qp": 3
+            }
+          ],
+          "winners": [
+            "11122",
+            "44777",
+            "11555",
+            "11444",
+            "11234",
+            "44222",
+            "11106",
+            "44333",
+            "15777",
+            "55555",
+            "55456",
+            "12123",
+            "22133",
+            "22333",
+            "22555",
+            "65123",
+            "30000",
+            "10888",
+            "10111",
+            "10456",
+            "15555",
+            "44123",
+            "45444",
+            "22344"
+          ],
+          "awards": [
+            {
+              "number": "11122",
+              "name": "NICOLAU JÚNIOR",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 18149,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44777",
+              "name": "FAGNER CALEGARIO",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 13640,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11555",
+              "name": "CLODOALDO RODRIGUES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13575,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11444",
+              "name": "ANDRÉ DA DROGA VALE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13173,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11234",
+              "name": "MANOEL MORAES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 12837,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44222",
+              "name": "ADAILTON CRUZ",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 11476,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11106",
+              "name": "SAMIR BESTENE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 11335,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44333",
+              "name": "TIO PABLO BREGENSE",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9981,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15777",
+              "name": "MARCUS ALEXANDRE",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12872,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55555",
+              "name": "JAILSON AMORIM",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5158,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55456",
+              "name": "ANTONIO PEDRO",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5118,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "12123",
+              "name": "TCHÊ",
+              "party": "PDT",
+              "group": "PDT",
+              "votes": 10003,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22133",
+              "name": "CHIQUINHO DO DUDA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 11514,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22333",
+              "name": "ARLENILSON CUNHA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 10144,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22555",
+              "name": "RAIMUNDO NENÉM",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8069,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "65123",
+              "name": "EDVALDO MAGALHÃES",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 9273,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "30000",
+              "name": "EMERSON JARUDE",
+              "party": "NOVO",
+              "group": "NOVO",
+              "votes": 9434,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10888",
+              "name": "EDUARDO RIBEIRO",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 11282,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10111",
+              "name": "GENE DINIZ",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 9835,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10456",
+              "name": "TADEU HASSEM",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 8598,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15555",
+              "name": "TANIZIO SÁ",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12023,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 1,
+              "average": 19467.5
+            },
+            {
+              "number": "44123",
+              "name": "AFONSO FERNANDES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9593,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 2,
+              "average": 18064.0
+            },
+            {
+              "number": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "party": "PSDB",
+              "group": "PSDB/CIDADANIA",
+              "votes": 4933,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 3,
+              "average": 17393.0
+            },
+            {
+              "number": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8029,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 4,
+              "average": 16975.0
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "15555",
+              "name": "TANIZIO SÁ",
+              "group": "MDB",
+              "average": 19467.5,
+              "denominator": 2,
+              "votes": 38935,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 2,
+                  "average": 19467.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "44123",
+              "name": "AFONSO FERNANDES",
+              "group": "UNIÃO/PP",
+              "average": 18064.0,
+              "denominator": 9,
+              "votes": 162576,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "group": "PSDB/CIDADANIA",
+              "average": 17393.0,
+              "denominator": 1,
+              "votes": 17393,
+              "competitors": [
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "group": "PL",
+              "average": 16975.0,
+              "denominator": 4,
+              "votes": 67900,
+              "competitors": [
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            }
+          ]
+        },
+        "hypothetical": {
+          "valid": 470056,
+          "qe": 19586,
+          "vacancies": 24,
+          "groups": [
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 162576,
+              "nominal": 156049,
+              "legend": 6527,
+              "seats": 9,
+              "initialSeats": 8,
+              "qp": 8
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 38935,
+              "nominal": 37579,
+              "legend": 1356,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "55",
+              "name": "PSD",
+              "votes": 39920,
+              "nominal": 37917,
+              "legend": 2003,
+              "seats": 2,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 20592,
+              "nominal": 19776,
+              "legend": 816,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 67900,
+              "nominal": 62796,
+              "legend": 5104,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 32281,
+              "nominal": 28043,
+              "legend": 4238,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 258,
+              "nominal": 87,
+              "legend": 171,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 325,
+              "nominal": 160,
+              "legend": 165,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 17437,
+              "nominal": 16494,
+              "legend": 943,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2480,
+              "nominal": 1027,
+              "legend": 1453,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 23692,
+              "nominal": 23408,
+              "legend": 284,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 2574,
+              "nominal": 2501,
+              "legend": 73,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 61086,
+              "nominal": 57828,
+              "legend": 3258,
+              "seats": 3,
+              "initialSeats": 3,
+              "qp": 3
+            }
+          ],
+          "winners": [
+            "11122",
+            "44777",
+            "11555",
+            "11444",
+            "11234",
+            "44222",
+            "11106",
+            "44333",
+            "15777",
+            "55555",
+            "55456",
+            "12123",
+            "22133",
+            "22333",
+            "22555",
+            "65123",
+            "30000",
+            "10888",
+            "10111",
+            "10456",
+            "15555",
+            "44123",
+            "45444",
+            "22344"
+          ],
+          "awards": [
+            {
+              "number": "11122",
+              "name": "NICOLAU JÚNIOR",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 18149,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44777",
+              "name": "FAGNER CALEGARIO",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 13640,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11555",
+              "name": "CLODOALDO RODRIGUES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13575,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11444",
+              "name": "ANDRÉ DA DROGA VALE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13173,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11234",
+              "name": "MANOEL MORAES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 12837,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44222",
+              "name": "ADAILTON CRUZ",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 11476,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11106",
+              "name": "SAMIR BESTENE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 11335,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44333",
+              "name": "TIO PABLO BREGENSE",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9981,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15777",
+              "name": "MARCUS ALEXANDRE",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12872,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55555",
+              "name": "JAILSON AMORIM",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5158,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55456",
+              "name": "ANTONIO PEDRO",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5118,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "12123",
+              "name": "TCHÊ",
+              "party": "PDT",
+              "group": "PDT",
+              "votes": 10003,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22133",
+              "name": "CHIQUINHO DO DUDA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 11514,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22333",
+              "name": "ARLENILSON CUNHA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 10144,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22555",
+              "name": "RAIMUNDO NENÉM",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8069,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "65123",
+              "name": "EDVALDO MAGALHÃES",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 9273,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "30000",
+              "name": "EMERSON JARUDE",
+              "party": "NOVO",
+              "group": "NOVO",
+              "votes": 9434,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10888",
+              "name": "EDUARDO RIBEIRO",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 11282,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10111",
+              "name": "GENE DINIZ",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 9835,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10456",
+              "name": "TADEU HASSEM",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 8598,
+              "phase": "Quociente partidário",
+              "minimum": 1958.6000000000001,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15555",
+              "name": "TANIZIO SÁ",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12023,
+              "phase": "Sobras 80/20",
+              "minimum": 3917.2000000000003,
+              "round": 1,
+              "average": 19467.5
+            },
+            {
+              "number": "44123",
+              "name": "AFONSO FERNANDES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9593,
+              "phase": "Sobras 80/20",
+              "minimum": 3917.2000000000003,
+              "round": 2,
+              "average": 18064.0
+            },
+            {
+              "number": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "party": "PSDB",
+              "group": "PSDB/CIDADANIA",
+              "votes": 4933,
+              "phase": "Sobras 80/20",
+              "minimum": 3917.2000000000003,
+              "round": 3,
+              "average": 17437.0
+            },
+            {
+              "number": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8029,
+              "phase": "Sobras 80/20",
+              "minimum": 3917.2000000000003,
+              "round": 4,
+              "average": 16975.0
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "15555",
+              "name": "TANIZIO SÁ",
+              "group": "MDB",
+              "average": 19467.5,
+              "denominator": 2,
+              "votes": 38935,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 2,
+                  "average": 19467.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17437,
+                  "denominator": 1,
+                  "average": 17437.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "44123",
+              "name": "AFONSO FERNANDES",
+              "group": "UNIÃO/PP",
+              "average": 18064.0,
+              "denominator": 9,
+              "votes": 162576,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17437,
+                  "denominator": 1,
+                  "average": 17437.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "group": "PSDB/CIDADANIA",
+              "average": 17437.0,
+              "denominator": 1,
+              "votes": 17437,
+              "competitors": [
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17437,
+                  "denominator": 1,
+                  "average": 17437.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "group": "PL",
+              "average": 16975.0,
+              "denominator": 4,
+              "votes": 67900,
+              "competitors": [
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            }
+          ]
+        },
+        "verifiedBase": true,
+        "hypothesis": "Somente os 44 votos de CHICÃO BRÍGIDO passam a válidos para a candidatura e o partido; todos os demais dados permanecem iguais.",
+        "rules": "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-677-de-16-de-dezembro-de-2021",
+        "conclusion": "Nesta hipótese, a lista de eleitos permanece igual. Não representa decisão ou retotalização oficial.",
+        "explanation": "A hipótese recalcula votos válidos, QE, QP, requisitos individuais e todas as rodadas das sobras. Cada caso é simulado isoladamente, sem validar simultaneamente outros candidatos."
+      }
+    },
+    {
+      "id": "7:22022",
+      "candidateId": "7:22022",
+      "source": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0007-e006259-u.json",
+      "checked": "07/10/2026",
+      "process": null,
+      "decisionURL": null,
+      "judicialNote": "A situação exibida é a destinação dos votos registrada na base eleitoral. Não foi incorporada decisão judicial posterior nem andamento processual. Número do processo ainda não cadastrado.",
+      "scenario": {
+        "base": {
+          "valid": 470012,
+          "qe": 19584,
+          "vacancies": 24,
+          "groups": [
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 162576,
+              "nominal": 156049,
+              "legend": 6527,
+              "seats": 9,
+              "initialSeats": 8,
+              "qp": 8
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 38935,
+              "nominal": 37579,
+              "legend": 1356,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "55",
+              "name": "PSD",
+              "votes": 39920,
+              "nominal": 37917,
+              "legend": 2003,
+              "seats": 2,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 20592,
+              "nominal": 19776,
+              "legend": 816,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 67900,
+              "nominal": 62796,
+              "legend": 5104,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 32281,
+              "nominal": 28043,
+              "legend": 4238,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 258,
+              "nominal": 87,
+              "legend": 171,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 325,
+              "nominal": 160,
+              "legend": 165,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 17393,
+              "nominal": 16450,
+              "legend": 943,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2480,
+              "nominal": 1027,
+              "legend": 1453,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 23692,
+              "nominal": 23408,
+              "legend": 284,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 2574,
+              "nominal": 2501,
+              "legend": 73,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 61086,
+              "nominal": 57828,
+              "legend": 3258,
+              "seats": 3,
+              "initialSeats": 3,
+              "qp": 3
+            }
+          ],
+          "winners": [
+            "11122",
+            "44777",
+            "11555",
+            "11444",
+            "11234",
+            "44222",
+            "11106",
+            "44333",
+            "15777",
+            "55555",
+            "55456",
+            "12123",
+            "22133",
+            "22333",
+            "22555",
+            "65123",
+            "30000",
+            "10888",
+            "10111",
+            "10456",
+            "15555",
+            "44123",
+            "45444",
+            "22344"
+          ],
+          "awards": [
+            {
+              "number": "11122",
+              "name": "NICOLAU JÚNIOR",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 18149,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44777",
+              "name": "FAGNER CALEGARIO",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 13640,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11555",
+              "name": "CLODOALDO RODRIGUES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13575,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11444",
+              "name": "ANDRÉ DA DROGA VALE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13173,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11234",
+              "name": "MANOEL MORAES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 12837,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44222",
+              "name": "ADAILTON CRUZ",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 11476,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11106",
+              "name": "SAMIR BESTENE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 11335,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44333",
+              "name": "TIO PABLO BREGENSE",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9981,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15777",
+              "name": "MARCUS ALEXANDRE",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12872,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55555",
+              "name": "JAILSON AMORIM",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5158,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55456",
+              "name": "ANTONIO PEDRO",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5118,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "12123",
+              "name": "TCHÊ",
+              "party": "PDT",
+              "group": "PDT",
+              "votes": 10003,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22133",
+              "name": "CHIQUINHO DO DUDA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 11514,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22333",
+              "name": "ARLENILSON CUNHA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 10144,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22555",
+              "name": "RAIMUNDO NENÉM",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8069,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "65123",
+              "name": "EDVALDO MAGALHÃES",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 9273,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "30000",
+              "name": "EMERSON JARUDE",
+              "party": "NOVO",
+              "group": "NOVO",
+              "votes": 9434,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10888",
+              "name": "EDUARDO RIBEIRO",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 11282,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10111",
+              "name": "GENE DINIZ",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 9835,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10456",
+              "name": "TADEU HASSEM",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 8598,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15555",
+              "name": "TANIZIO SÁ",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12023,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 1,
+              "average": 19467.5
+            },
+            {
+              "number": "44123",
+              "name": "AFONSO FERNANDES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9593,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 2,
+              "average": 18064.0
+            },
+            {
+              "number": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "party": "PSDB",
+              "group": "PSDB/CIDADANIA",
+              "votes": 4933,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 3,
+              "average": 17393.0
+            },
+            {
+              "number": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8029,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 4,
+              "average": 16975.0
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "15555",
+              "name": "TANIZIO SÁ",
+              "group": "MDB",
+              "average": 19467.5,
+              "denominator": 2,
+              "votes": 38935,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 2,
+                  "average": 19467.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "44123",
+              "name": "AFONSO FERNANDES",
+              "group": "UNIÃO/PP",
+              "average": 18064.0,
+              "denominator": 9,
+              "votes": 162576,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "group": "PSDB/CIDADANIA",
+              "average": 17393.0,
+              "denominator": 1,
+              "votes": 17393,
+              "competitors": [
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "group": "PL",
+              "average": 16975.0,
+              "denominator": 4,
+              "votes": 67900,
+              "competitors": [
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            }
+          ]
+        },
+        "hypothetical": {
+          "valid": 470026,
+          "qe": 19584,
+          "vacancies": 24,
+          "groups": [
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 162576,
+              "nominal": 156049,
+              "legend": 6527,
+              "seats": 9,
+              "initialSeats": 8,
+              "qp": 8
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 38935,
+              "nominal": 37579,
+              "legend": 1356,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "55",
+              "name": "PSD",
+              "votes": 39920,
+              "nominal": 37917,
+              "legend": 2003,
+              "seats": 2,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 20592,
+              "nominal": 19776,
+              "legend": 816,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 67914,
+              "nominal": 62810,
+              "legend": 5104,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 32281,
+              "nominal": 28043,
+              "legend": 4238,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 258,
+              "nominal": 87,
+              "legend": 171,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 325,
+              "nominal": 160,
+              "legend": 165,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 17393,
+              "nominal": 16450,
+              "legend": 943,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2480,
+              "nominal": 1027,
+              "legend": 1453,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 23692,
+              "nominal": 23408,
+              "legend": 284,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 2574,
+              "nominal": 2501,
+              "legend": 73,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 61086,
+              "nominal": 57828,
+              "legend": 3258,
+              "seats": 3,
+              "initialSeats": 3,
+              "qp": 3
+            }
+          ],
+          "winners": [
+            "11122",
+            "44777",
+            "11555",
+            "11444",
+            "11234",
+            "44222",
+            "11106",
+            "44333",
+            "15777",
+            "55555",
+            "55456",
+            "12123",
+            "22133",
+            "22333",
+            "22555",
+            "65123",
+            "30000",
+            "10888",
+            "10111",
+            "10456",
+            "15555",
+            "44123",
+            "45444",
+            "22344"
+          ],
+          "awards": [
+            {
+              "number": "11122",
+              "name": "NICOLAU JÚNIOR",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 18149,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44777",
+              "name": "FAGNER CALEGARIO",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 13640,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11555",
+              "name": "CLODOALDO RODRIGUES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13575,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11444",
+              "name": "ANDRÉ DA DROGA VALE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13173,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11234",
+              "name": "MANOEL MORAES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 12837,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44222",
+              "name": "ADAILTON CRUZ",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 11476,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11106",
+              "name": "SAMIR BESTENE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 11335,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44333",
+              "name": "TIO PABLO BREGENSE",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9981,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15777",
+              "name": "MARCUS ALEXANDRE",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12872,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55555",
+              "name": "JAILSON AMORIM",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5158,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55456",
+              "name": "ANTONIO PEDRO",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5118,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "12123",
+              "name": "TCHÊ",
+              "party": "PDT",
+              "group": "PDT",
+              "votes": 10003,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22133",
+              "name": "CHIQUINHO DO DUDA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 11514,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22333",
+              "name": "ARLENILSON CUNHA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 10144,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22555",
+              "name": "RAIMUNDO NENÉM",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8069,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "65123",
+              "name": "EDVALDO MAGALHÃES",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 9273,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "30000",
+              "name": "EMERSON JARUDE",
+              "party": "NOVO",
+              "group": "NOVO",
+              "votes": 9434,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10888",
+              "name": "EDUARDO RIBEIRO",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 11282,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10111",
+              "name": "GENE DINIZ",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 9835,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10456",
+              "name": "TADEU HASSEM",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 8598,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15555",
+              "name": "TANIZIO SÁ",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12023,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 1,
+              "average": 19467.5
+            },
+            {
+              "number": "44123",
+              "name": "AFONSO FERNANDES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9593,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 2,
+              "average": 18064.0
+            },
+            {
+              "number": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "party": "PSDB",
+              "group": "PSDB/CIDADANIA",
+              "votes": 4933,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 3,
+              "average": 17393.0
+            },
+            {
+              "number": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8029,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 4,
+              "average": 16978.5
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "15555",
+              "name": "TANIZIO SÁ",
+              "group": "MDB",
+              "average": 19467.5,
+              "denominator": 2,
+              "votes": 38935,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 2,
+                  "average": 19467.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67914,
+                  "denominator": 4,
+                  "average": 16978.5
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "44123",
+              "name": "AFONSO FERNANDES",
+              "group": "UNIÃO/PP",
+              "average": 18064.0,
+              "denominator": 9,
+              "votes": 162576,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67914,
+                  "denominator": 4,
+                  "average": 16978.5
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "group": "PSDB/CIDADANIA",
+              "average": 17393.0,
+              "denominator": 1,
+              "votes": 17393,
+              "competitors": [
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67914,
+                  "denominator": 4,
+                  "average": 16978.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "group": "PL",
+              "average": 16978.5,
+              "denominator": 4,
+              "votes": 67914,
+              "competitors": [
+                {
+                  "group": "PL",
+                  "votes": 67914,
+                  "denominator": 4,
+                  "average": 16978.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            }
+          ]
+        },
+        "verifiedBase": true,
+        "hypothesis": "Somente os 14 votos de JOSA DA FARMÁCIA passam a válidos para a candidatura e o partido; todos os demais dados permanecem iguais.",
+        "rules": "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-677-de-16-de-dezembro-de-2021",
+        "conclusion": "Nesta hipótese, a lista de eleitos permanece igual. Não representa decisão ou retotalização oficial.",
+        "explanation": "A hipótese recalcula votos válidos, QE, QP, requisitos individuais e todas as rodadas das sobras. Cada caso é simulado isoladamente, sem validar simultaneamente outros candidatos."
+      }
+    },
+    {
+      "id": "7:20099",
+      "candidateId": "7:20099",
+      "source": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0007-e006259-u.json",
+      "checked": "07/10/2026",
+      "process": null,
+      "decisionURL": null,
+      "judicialNote": "A situação exibida é a destinação dos votos registrada na base eleitoral. Não foi incorporada decisão judicial posterior nem andamento processual. Número do processo ainda não cadastrado.",
+      "scenario": {
+        "base": {
+          "valid": 470012,
+          "qe": 19584,
+          "vacancies": 24,
+          "groups": [
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 162576,
+              "nominal": 156049,
+              "legend": 6527,
+              "seats": 9,
+              "initialSeats": 8,
+              "qp": 8
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 38935,
+              "nominal": 37579,
+              "legend": 1356,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "55",
+              "name": "PSD",
+              "votes": 39920,
+              "nominal": 37917,
+              "legend": 2003,
+              "seats": 2,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 20592,
+              "nominal": 19776,
+              "legend": 816,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 67900,
+              "nominal": 62796,
+              "legend": 5104,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 32281,
+              "nominal": 28043,
+              "legend": 4238,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 258,
+              "nominal": 87,
+              "legend": 171,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 325,
+              "nominal": 160,
+              "legend": 165,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 17393,
+              "nominal": 16450,
+              "legend": 943,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2480,
+              "nominal": 1027,
+              "legend": 1453,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 23692,
+              "nominal": 23408,
+              "legend": 284,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 2574,
+              "nominal": 2501,
+              "legend": 73,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 61086,
+              "nominal": 57828,
+              "legend": 3258,
+              "seats": 3,
+              "initialSeats": 3,
+              "qp": 3
+            }
+          ],
+          "winners": [
+            "11122",
+            "44777",
+            "11555",
+            "11444",
+            "11234",
+            "44222",
+            "11106",
+            "44333",
+            "15777",
+            "55555",
+            "55456",
+            "12123",
+            "22133",
+            "22333",
+            "22555",
+            "65123",
+            "30000",
+            "10888",
+            "10111",
+            "10456",
+            "15555",
+            "44123",
+            "45444",
+            "22344"
+          ],
+          "awards": [
+            {
+              "number": "11122",
+              "name": "NICOLAU JÚNIOR",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 18149,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44777",
+              "name": "FAGNER CALEGARIO",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 13640,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11555",
+              "name": "CLODOALDO RODRIGUES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13575,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11444",
+              "name": "ANDRÉ DA DROGA VALE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13173,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11234",
+              "name": "MANOEL MORAES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 12837,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44222",
+              "name": "ADAILTON CRUZ",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 11476,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11106",
+              "name": "SAMIR BESTENE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 11335,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44333",
+              "name": "TIO PABLO BREGENSE",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9981,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15777",
+              "name": "MARCUS ALEXANDRE",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12872,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55555",
+              "name": "JAILSON AMORIM",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5158,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55456",
+              "name": "ANTONIO PEDRO",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5118,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "12123",
+              "name": "TCHÊ",
+              "party": "PDT",
+              "group": "PDT",
+              "votes": 10003,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22133",
+              "name": "CHIQUINHO DO DUDA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 11514,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22333",
+              "name": "ARLENILSON CUNHA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 10144,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22555",
+              "name": "RAIMUNDO NENÉM",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8069,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "65123",
+              "name": "EDVALDO MAGALHÃES",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 9273,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "30000",
+              "name": "EMERSON JARUDE",
+              "party": "NOVO",
+              "group": "NOVO",
+              "votes": 9434,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10888",
+              "name": "EDUARDO RIBEIRO",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 11282,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10111",
+              "name": "GENE DINIZ",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 9835,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10456",
+              "name": "TADEU HASSEM",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 8598,
+              "phase": "Quociente partidário",
+              "minimum": 1958.4,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15555",
+              "name": "TANIZIO SÁ",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12023,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 1,
+              "average": 19467.5
+            },
+            {
+              "number": "44123",
+              "name": "AFONSO FERNANDES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9593,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 2,
+              "average": 18064.0
+            },
+            {
+              "number": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "party": "PSDB",
+              "group": "PSDB/CIDADANIA",
+              "votes": 4933,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 3,
+              "average": 17393.0
+            },
+            {
+              "number": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8029,
+              "phase": "Sobras 80/20",
+              "minimum": 3916.8,
+              "round": 4,
+              "average": 16975.0
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "15555",
+              "name": "TANIZIO SÁ",
+              "group": "MDB",
+              "average": 19467.5,
+              "denominator": 2,
+              "votes": 38935,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 2,
+                  "average": 19467.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "44123",
+              "name": "AFONSO FERNANDES",
+              "group": "UNIÃO/PP",
+              "average": 18064.0,
+              "denominator": 9,
+              "votes": 162576,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "group": "PSDB/CIDADANIA",
+              "average": 17393.0,
+              "denominator": 1,
+              "votes": 17393,
+              "competitors": [
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "group": "PL",
+              "average": 16975.0,
+              "denominator": 4,
+              "votes": 67900,
+              "competitors": [
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            }
+          ]
+        },
+        "hypothetical": {
+          "valid": 470046,
+          "qe": 19585,
+          "vacancies": 24,
+          "groups": [
+            {
+              "id": "104",
+              "name": "UNIÃO/PP",
+              "votes": 162576,
+              "nominal": 156049,
+              "legend": 6527,
+              "seats": 9,
+              "initialSeats": 8,
+              "qp": 8
+            },
+            {
+              "id": "15",
+              "name": "MDB",
+              "votes": 38935,
+              "nominal": 37579,
+              "legend": 1356,
+              "seats": 2,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "55",
+              "name": "PSD",
+              "votes": 39920,
+              "nominal": 37917,
+              "legend": 2003,
+              "seats": 2,
+              "initialSeats": 2,
+              "qp": 2
+            },
+            {
+              "id": "12",
+              "name": "PDT",
+              "votes": 20592,
+              "nominal": 19776,
+              "legend": 816,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "22",
+              "name": "PL",
+              "votes": 67900,
+              "nominal": 62796,
+              "legend": 5104,
+              "seats": 4,
+              "initialSeats": 3,
+              "qp": 3
+            },
+            {
+              "id": "101",
+              "name": "PT/PC do B/PV",
+              "votes": 32281,
+              "nominal": 28043,
+              "legend": 4238,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "102",
+              "name": "PSOL/REDE",
+              "votes": 258,
+              "nominal": 87,
+              "legend": 171,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "40",
+              "name": "PSB",
+              "votes": 325,
+              "nominal": 160,
+              "legend": 165,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "100",
+              "name": "PSDB/CIDADANIA",
+              "votes": 17393,
+              "nominal": 16450,
+              "legend": 943,
+              "seats": 1,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "103",
+              "name": "PRD/SOLIDARIEDADE",
+              "votes": 2480,
+              "nominal": 1027,
+              "legend": 1453,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "30",
+              "name": "NOVO",
+              "votes": 23692,
+              "nominal": 23408,
+              "legend": 284,
+              "seats": 1,
+              "initialSeats": 1,
+              "qp": 1
+            },
+            {
+              "id": "20",
+              "name": "PODE",
+              "votes": 2608,
+              "nominal": 2535,
+              "legend": 73,
+              "seats": 0,
+              "initialSeats": 0,
+              "qp": 0
+            },
+            {
+              "id": "10",
+              "name": "REPUBLICANOS",
+              "votes": 61086,
+              "nominal": 57828,
+              "legend": 3258,
+              "seats": 3,
+              "initialSeats": 3,
+              "qp": 3
+            }
+          ],
+          "winners": [
+            "11122",
+            "44777",
+            "11555",
+            "11444",
+            "11234",
+            "44222",
+            "11106",
+            "44333",
+            "15777",
+            "55555",
+            "55456",
+            "12123",
+            "22133",
+            "22333",
+            "22555",
+            "65123",
+            "30000",
+            "10888",
+            "10111",
+            "10456",
+            "15555",
+            "44123",
+            "45444",
+            "22344"
+          ],
+          "awards": [
+            {
+              "number": "11122",
+              "name": "NICOLAU JÚNIOR",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 18149,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44777",
+              "name": "FAGNER CALEGARIO",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 13640,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11555",
+              "name": "CLODOALDO RODRIGUES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13575,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11444",
+              "name": "ANDRÉ DA DROGA VALE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 13173,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11234",
+              "name": "MANOEL MORAES",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 12837,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44222",
+              "name": "ADAILTON CRUZ",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 11476,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "11106",
+              "name": "SAMIR BESTENE",
+              "party": "PP",
+              "group": "UNIÃO/PP",
+              "votes": 11335,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "44333",
+              "name": "TIO PABLO BREGENSE",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9981,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15777",
+              "name": "MARCUS ALEXANDRE",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12872,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55555",
+              "name": "JAILSON AMORIM",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5158,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "55456",
+              "name": "ANTONIO PEDRO",
+              "party": "PSD",
+              "group": "PSD",
+              "votes": 5118,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "12123",
+              "name": "TCHÊ",
+              "party": "PDT",
+              "group": "PDT",
+              "votes": 10003,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22133",
+              "name": "CHIQUINHO DO DUDA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 11514,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22333",
+              "name": "ARLENILSON CUNHA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 10144,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "22555",
+              "name": "RAIMUNDO NENÉM",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8069,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "65123",
+              "name": "EDVALDO MAGALHÃES",
+              "party": "PCDOB",
+              "group": "PT/PC do B/PV",
+              "votes": 9273,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "30000",
+              "name": "EMERSON JARUDE",
+              "party": "NOVO",
+              "group": "NOVO",
+              "votes": 9434,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10888",
+              "name": "EDUARDO RIBEIRO",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 11282,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10111",
+              "name": "GENE DINIZ",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 9835,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "10456",
+              "name": "TADEU HASSEM",
+              "party": "REPUBLICANOS",
+              "group": "REPUBLICANOS",
+              "votes": 8598,
+              "phase": "Quociente partidário",
+              "minimum": 1958.5,
+              "round": null,
+              "average": null
+            },
+            {
+              "number": "15555",
+              "name": "TANIZIO SÁ",
+              "party": "MDB",
+              "group": "MDB",
+              "votes": 12023,
+              "phase": "Sobras 80/20",
+              "minimum": 3917.0,
+              "round": 1,
+              "average": 19467.5
+            },
+            {
+              "number": "44123",
+              "name": "AFONSO FERNANDES",
+              "party": "UNIÃO",
+              "group": "UNIÃO/PP",
+              "votes": 9593,
+              "phase": "Sobras 80/20",
+              "minimum": 3917.0,
+              "round": 2,
+              "average": 18064.0
+            },
+            {
+              "number": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "party": "PSDB",
+              "group": "PSDB/CIDADANIA",
+              "votes": 4933,
+              "phase": "Sobras 80/20",
+              "minimum": 3917.0,
+              "round": 3,
+              "average": 17393.0
+            },
+            {
+              "number": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "party": "PL",
+              "group": "PL",
+              "votes": 8029,
+              "phase": "Sobras 80/20",
+              "minimum": 3917.0,
+              "round": 4,
+              "average": 16975.0
+            }
+          ],
+          "rounds": [
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "15555",
+              "name": "TANIZIO SÁ",
+              "group": "MDB",
+              "average": 19467.5,
+              "denominator": 2,
+              "votes": 38935,
+              "competitors": [
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 2,
+                  "average": 19467.5
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "44123",
+              "name": "AFONSO FERNANDES",
+              "group": "UNIÃO/PP",
+              "average": 18064.0,
+              "denominator": 9,
+              "votes": 162576,
+              "competitors": [
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 9,
+                  "average": 18064.0
+                },
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "45444",
+              "name": "LEÔNCIO CASTRO",
+              "group": "PSDB/CIDADANIA",
+              "average": 17393.0,
+              "denominator": 1,
+              "votes": 17393,
+              "competitors": [
+                {
+                  "group": "PSDB/CIDADANIA",
+                  "votes": 17393,
+                  "denominator": 1,
+                  "average": 17393.0
+                },
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            },
+            {
+              "phase": "Sobras 80/20",
+              "candidate": "22344",
+              "name": "GLÁUCIO PEDROSA",
+              "group": "PL",
+              "average": 16975.0,
+              "denominator": 4,
+              "votes": 67900,
+              "competitors": [
+                {
+                  "group": "PL",
+                  "votes": 67900,
+                  "denominator": 4,
+                  "average": 16975.0
+                },
+                {
+                  "group": "UNIÃO/PP",
+                  "votes": 162576,
+                  "denominator": 10,
+                  "average": 16257.6
+                },
+                {
+                  "group": "PT/PC do B/PV",
+                  "votes": 32281,
+                  "denominator": 2,
+                  "average": 16140.5
+                },
+                {
+                  "group": "REPUBLICANOS",
+                  "votes": 61086,
+                  "denominator": 4,
+                  "average": 15271.5
+                },
+                {
+                  "group": "MDB",
+                  "votes": 38935,
+                  "denominator": 3,
+                  "average": 12978.333333333334
+                },
+                {
+                  "group": "NOVO",
+                  "votes": 23692,
+                  "denominator": 2,
+                  "average": 11846.0
+                }
+              ]
+            }
+          ]
+        },
+        "verifiedBase": true,
+        "hypothesis": "Somente os 34 votos de PAULO DOS MOTOAPLICATIVOS passam a válidos para a candidatura e o partido; todos os demais dados permanecem iguais.",
+        "rules": "https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-677-de-16-de-dezembro-de-2021",
+        "conclusion": "Nesta hipótese, a lista de eleitos permanece igual. Não representa decisão ou retotalização oficial.",
+        "explanation": "A hipótese recalcula votos válidos, QE, QP, requisitos individuais e todas as rodadas das sobras. Cada caso é simulado isoladamente, sem validar simultaneamente outros candidatos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1945 @@
+{
+  "data": "2026-10-07",
+  "candidatos": 323,
+  "disponiveis": 323,
+  "resultados": [
+    {
+      "id": "3:10",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532492.jpeg",
+      "bytes": 5583
+    },
+    {
+      "id": "3:36",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533539.jpeg",
+      "bytes": 5691
+    },
+    {
+      "id": "3:21",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002549500.jpeg",
+      "bytes": 4906
+    },
+    {
+      "id": "3:11",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544107.jpeg",
+      "bytes": 5422
+    },
+    {
+      "id": "3:40",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550719.jpeg",
+      "bytes": 6099
+    },
+    {
+      "id": "3:45",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544015.jpeg",
+      "bytes": 6447
+    },
+    {
+      "id": "5:277",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536710.jpeg",
+      "bytes": 5878
+    },
+    {
+      "id": "5:777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544274.jpeg",
+      "bytes": 5075
+    },
+    {
+      "id": "5:111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002548046.jpeg",
+      "bytes": 5542
+    },
+    {
+      "id": "5:131",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536441.jpeg",
+      "bytes": 5346
+    },
+    {
+      "id": "5:100",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533895.jpeg",
+      "bytes": 6654
+    },
+    {
+      "id": "5:222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002548050.jpeg",
+      "bytes": 5642
+    },
+    {
+      "id": "5:555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002535804.jpeg",
+      "bytes": 5875
+    },
+    {
+      "id": "5:500",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544110.jpeg",
+      "bytes": 7002
+    },
+    {
+      "id": "6:5015",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545667.jpeg",
+      "bytes": 7388
+    },
+    {
+      "id": "6:7700",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553911.jpeg",
+      "bytes": 6625
+    },
+    {
+      "id": "6:7745",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553953.jpeg",
+      "bytes": 6715
+    },
+    {
+      "id": "6:1313",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538133.jpeg",
+      "bytes": 7050
+    },
+    {
+      "id": "6:1515",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532419.jpeg",
+      "bytes": 8084
+    },
+    {
+      "id": "6:4090",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550797.jpeg",
+      "bytes": 7268
+    },
+    {
+      "id": "6:2202",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544297.jpeg",
+      "bytes": 5152
+    },
+    {
+      "id": "6:2200",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544292.jpeg",
+      "bytes": 6596
+    },
+    {
+      "id": "6:1311",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538359.jpeg",
+      "bytes": 7655
+    },
+    {
+      "id": "6:1001",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532487.jpeg",
+      "bytes": 5937
+    },
+    {
+      "id": "6:4422",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545228.jpeg",
+      "bytes": 5921
+    },
+    {
+      "id": "6:1250",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550672.jpeg",
+      "bytes": 6956
+    },
+    {
+      "id": "6:5011",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545668.jpeg",
+      "bytes": 6030
+    },
+    {
+      "id": "6:7012",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536298.jpeg",
+      "bytes": 4208
+    },
+    {
+      "id": "6:3079",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533211.jpeg",
+      "bytes": 5854
+    },
+    {
+      "id": "6:1200",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550671.jpeg",
+      "bytes": 6512
+    },
+    {
+      "id": "6:4444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545233.jpeg",
+      "bytes": 5262
+    },
+    {
+      "id": "6:7767",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551870.jpeg",
+      "bytes": 6024
+    },
+    {
+      "id": "6:1567",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532416.jpeg",
+      "bytes": 5160
+    },
+    {
+      "id": "6:1000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532486.jpeg",
+      "bytes": 4986
+    },
+    {
+      "id": "6:2233",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544291.jpeg",
+      "bytes": 4842
+    },
+    {
+      "id": "6:1088",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532491.jpeg",
+      "bytes": 4573
+    },
+    {
+      "id": "6:2000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552404.jpeg",
+      "bytes": 7272
+    },
+    {
+      "id": "6:1511",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532417.jpeg",
+      "bytes": 5352
+    },
+    {
+      "id": "6:4544",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544281.jpeg",
+      "bytes": 6364
+    },
+    {
+      "id": "6:4411",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545225.jpeg",
+      "bytes": 6277
+    },
+    {
+      "id": "6:4555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544283.jpeg",
+      "bytes": 7262
+    },
+    {
+      "id": "6:2212",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544294.jpeg",
+      "bytes": 5923
+    },
+    {
+      "id": "6:2222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544293.jpeg",
+      "bytes": 5560
+    },
+    {
+      "id": "6:4522",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544277.jpeg",
+      "bytes": 5760
+    },
+    {
+      "id": "6:6511",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538131.jpeg",
+      "bytes": 5350
+    },
+    {
+      "id": "6:2323",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544280.jpeg",
+      "bytes": 6371
+    },
+    {
+      "id": "6:3011",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533954.jpeg",
+      "bytes": 5329
+    },
+    {
+      "id": "6:2013",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553974.jpeg",
+      "bytes": 6247
+    },
+    {
+      "id": "6:2020",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552403.jpeg",
+      "bytes": 6901
+    },
+    {
+      "id": "6:2244",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544296.jpeg",
+      "bytes": 4407
+    },
+    {
+      "id": "6:4545",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544282.jpeg",
+      "bytes": 5789
+    },
+    {
+      "id": "6:2345",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544278.jpeg",
+      "bytes": 4894
+    },
+    {
+      "id": "6:3033",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533956.jpeg",
+      "bytes": 6152
+    },
+    {
+      "id": "6:1144",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545226.jpeg",
+      "bytes": 7814
+    },
+    {
+      "id": "6:1555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532423.jpeg",
+      "bytes": 5192
+    },
+    {
+      "id": "6:4433",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545230.jpeg",
+      "bytes": 7239
+    },
+    {
+      "id": "6:2255",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544290.jpeg",
+      "bytes": 5420
+    },
+    {
+      "id": "6:3022",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533213.jpeg",
+      "bytes": 4131
+    },
+    {
+      "id": "6:1011",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532484.jpeg",
+      "bytes": 5588
+    },
+    {
+      "id": "6:4020",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550800.jpeg",
+      "bytes": 5862
+    },
+    {
+      "id": "6:7788",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551868.jpeg",
+      "bytes": 6327
+    },
+    {
+      "id": "6:1333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538357.jpeg",
+      "bytes": 5957
+    },
+    {
+      "id": "6:7789",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551873.jpeg",
+      "bytes": 4728
+    },
+    {
+      "id": "6:1314",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538355.jpeg",
+      "bytes": 6702
+    },
+    {
+      "id": "6:5050",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545666.jpeg",
+      "bytes": 7605
+    },
+    {
+      "id": "6:4455",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545232.jpeg",
+      "bytes": 5657
+    },
+    {
+      "id": "6:1500",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532420.jpeg",
+      "bytes": 5707
+    },
+    {
+      "id": "6:1012",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532485.jpeg",
+      "bytes": 8327
+    },
+    {
+      "id": "6:7000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536300.jpeg",
+      "bytes": 5334
+    },
+    {
+      "id": "6:7033",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536299.jpeg",
+      "bytes": 5077
+    },
+    {
+      "id": "6:1312",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538132.jpeg",
+      "bytes": 6799
+    },
+    {
+      "id": "6:1577",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532418.jpeg",
+      "bytes": 5029
+    },
+    {
+      "id": "6:7711",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551865.jpeg",
+      "bytes": 5771
+    },
+    {
+      "id": "6:3012",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533212.jpeg",
+      "bytes": 4545
+    },
+    {
+      "id": "6:1533",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532422.jpeg",
+      "bytes": 6531
+    },
+    {
+      "id": "6:4500",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544279.jpeg",
+      "bytes": 4530
+    },
+    {
+      "id": "6:6513",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538358.jpeg",
+      "bytes": 8579
+    },
+    {
+      "id": "6:2223",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544295.jpeg",
+      "bytes": 5078
+    },
+    {
+      "id": "6:2500",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551866.jpeg",
+      "bytes": 5636
+    },
+    {
+      "id": "6:4511",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544284.jpeg",
+      "bytes": 8641
+    },
+    {
+      "id": "6:1512",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532424.jpeg",
+      "bytes": 5199
+    },
+    {
+      "id": "6:1234",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550670.jpeg",
+      "bytes": 7002
+    },
+    {
+      "id": "6:5000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545665.jpeg",
+      "bytes": 6131
+    },
+    {
+      "id": "6:1020",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532483.jpeg",
+      "bytes": 4943
+    },
+    {
+      "id": "6:1010",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532489.jpeg",
+      "bytes": 4395
+    },
+    {
+      "id": "6:7070",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536301.jpeg",
+      "bytes": 4756
+    },
+    {
+      "id": "6:3511",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551861.jpeg",
+      "bytes": 5886
+    },
+    {
+      "id": "6:2525",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551869.jpeg",
+      "bytes": 5032
+    },
+    {
+      "id": "6:2010",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552401.jpeg",
+      "bytes": 5967
+    },
+    {
+      "id": "6:1022",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532488.jpeg",
+      "bytes": 6823
+    },
+    {
+      "id": "6:4300",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538354.jpeg",
+      "bytes": 6166
+    },
+    {
+      "id": "6:1101",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545231.jpeg",
+      "bytes": 6127
+    },
+    {
+      "id": "6:3500",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551860.jpeg",
+      "bytes": 5638
+    },
+    {
+      "id": "6:2211",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544298.jpeg",
+      "bytes": 7093
+    },
+    {
+      "id": "6:1522",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532421.jpeg",
+      "bytes": 6062
+    },
+    {
+      "id": "6:1077",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532490.jpeg",
+      "bytes": 9294
+    },
+    {
+      "id": "6:4321",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002538356.jpeg",
+      "bytes": 5562
+    },
+    {
+      "id": "6:2007",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552402.jpeg",
+      "bytes": 6266
+    },
+    {
+      "id": "6:1122",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545227.jpeg",
+      "bytes": 5768
+    },
+    {
+      "id": "6:1111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545229.jpeg",
+      "bytes": 4577
+    },
+    {
+      "id": "6:2520",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551871.jpeg",
+      "bytes": 5342
+    },
+    {
+      "id": "7:44222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544540.jpeg",
+      "bytes": 5386
+    },
+    {
+      "id": "7:30800",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533993.jpeg",
+      "bytes": 5092
+    },
+    {
+      "id": "7:22123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545662.jpeg",
+      "bytes": 6071
+    },
+    {
+      "id": "7:44123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544522.jpeg",
+      "bytes": 5544
+    },
+    {
+      "id": "7:15100",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532441.jpeg",
+      "bytes": 4951
+    },
+    {
+      "id": "7:30115",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533988.jpeg",
+      "bytes": 4742
+    },
+    {
+      "id": "7:20888",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553977.jpeg",
+      "bytes": 5949
+    },
+    {
+      "id": "7:45022",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544036.jpeg",
+      "bytes": 4846
+    },
+    {
+      "id": "7:11125",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544520.jpeg",
+      "bytes": 7263
+    },
+    {
+      "id": "7:30900",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533989.jpeg",
+      "bytes": 5168
+    },
+    {
+      "id": "7:12131",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550650.jpeg",
+      "bytes": 6514
+    },
+    {
+      "id": "7:15131",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552002.jpeg",
+      "bytes": 5372
+    },
+    {
+      "id": "7:15222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552005.jpeg",
+      "bytes": 6049
+    },
+    {
+      "id": "7:11444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544524.jpeg",
+      "bytes": 5996
+    },
+    {
+      "id": "7:77000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552390.jpeg",
+      "bytes": 4874
+    },
+    {
+      "id": "7:20233",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552850.jpeg",
+      "bytes": 4678
+    },
+    {
+      "id": "7:15122",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532438.jpeg",
+      "bytes": 6883
+    },
+    {
+      "id": "7:55456",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534775.jpeg",
+      "bytes": 6292
+    },
+    {
+      "id": "7:30100",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533979.jpeg",
+      "bytes": 4223
+    },
+    {
+      "id": "7:23000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544038.jpeg",
+      "bytes": 4649
+    },
+    {
+      "id": "7:22333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545646.jpeg",
+      "bytes": 4929
+    },
+    {
+      "id": "7:22234",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545654.jpeg",
+      "bytes": 5163
+    },
+    {
+      "id": "7:30852",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533978.jpeg",
+      "bytes": 6036
+    },
+    {
+      "id": "7:20444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552844.jpeg",
+      "bytes": 5157
+    },
+    {
+      "id": "7:55052",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534793.jpeg",
+      "bytes": 5346
+    },
+    {
+      "id": "7:77190",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552395.jpeg",
+      "bytes": 5777
+    },
+    {
+      "id": "7:10108",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536325.jpeg",
+      "bytes": 5741
+    },
+    {
+      "id": "7:23333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544029.jpeg",
+      "bytes": 5155
+    },
+    {
+      "id": "7:13013",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544052.jpeg",
+      "bytes": 5394
+    },
+    {
+      "id": "7:22222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545651.jpeg",
+      "bytes": 7122
+    },
+    {
+      "id": "7:15615",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532443.jpeg",
+      "bytes": 6957
+    },
+    {
+      "id": "7:45666",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544019.jpeg",
+      "bytes": 5197
+    },
+    {
+      "id": "7:43444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544047.jpeg",
+      "bytes": 6649
+    },
+    {
+      "id": "7:22133",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545649.jpeg",
+      "bytes": 6101
+    },
+    {
+      "id": "7:15123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532445.jpeg",
+      "bytes": 4887
+    },
+    {
+      "id": "7:13123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544045.jpeg",
+      "bytes": 6676
+    },
+    {
+      "id": "7:11555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544542.jpeg",
+      "bytes": 4797
+    },
+    {
+      "id": "7:23033",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544034.jpeg",
+      "bytes": 5072
+    },
+    {
+      "id": "7:20123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552848.jpeg",
+      "bytes": 6614
+    },
+    {
+      "id": "7:45800",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544032.jpeg",
+      "bytes": 6039
+    },
+    {
+      "id": "7:55611",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534792.jpeg",
+      "bytes": 5620
+    },
+    {
+      "id": "7:20225",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552842.jpeg",
+      "bytes": 5606
+    },
+    {
+      "id": "7:40400",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002549519.jpeg",
+      "bytes": 6161
+    },
+    {
+      "id": "7:22789",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545661.jpeg",
+      "bytes": 4944
+    },
+    {
+      "id": "7:77777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552394.jpeg",
+      "bytes": 5381
+    },
+    {
+      "id": "7:12288",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550662.jpeg",
+      "bytes": 6301
+    },
+    {
+      "id": "7:10022",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536336.jpeg",
+      "bytes": 4746
+    },
+    {
+      "id": "7:30300",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533981.jpeg",
+      "bytes": 4985
+    },
+    {
+      "id": "7:30500",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533977.jpeg",
+      "bytes": 4647
+    },
+    {
+      "id": "7:30700",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533996.jpeg",
+      "bytes": 4083
+    },
+    {
+      "id": "7:12190",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550663.jpeg",
+      "bytes": 6633
+    },
+    {
+      "id": "7:44121",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544530.jpeg",
+      "bytes": 5266
+    },
+    {
+      "id": "7:12789",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550660.jpeg",
+      "bytes": 5927
+    },
+    {
+      "id": "7:10000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536339.jpeg",
+      "bytes": 5417
+    },
+    {
+      "id": "7:30999",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533990.jpeg",
+      "bytes": 4636
+    },
+    {
+      "id": "7:55111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534778.jpeg",
+      "bytes": 5913
+    },
+    {
+      "id": "7:12555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550668.jpeg",
+      "bytes": 5772
+    },
+    {
+      "id": "7:25007",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552393.jpeg",
+      "bytes": 5366
+    },
+    {
+      "id": "7:45220",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544022.jpeg",
+      "bytes": 6242
+    },
+    {
+      "id": "7:44000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544529.jpeg",
+      "bytes": 5840
+    },
+    {
+      "id": "7:45888",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544039.jpeg",
+      "bytes": 5721
+    },
+    {
+      "id": "7:10123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536338.jpeg",
+      "bytes": 5800
+    },
+    {
+      "id": "7:11456",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544521.jpeg",
+      "bytes": 5752
+    },
+    {
+      "id": "7:20009",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552847.jpeg",
+      "bytes": 5715
+    },
+    {
+      "id": "7:12333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550651.jpeg",
+      "bytes": 5462
+    },
+    {
+      "id": "7:13000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544594.jpeg",
+      "bytes": 5494
+    },
+    {
+      "id": "7:10222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536330.jpeg",
+      "bytes": 7777
+    },
+    {
+      "id": "7:10888",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536340.jpeg",
+      "bytes": 7232
+    },
+    {
+      "id": "7:65123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544042.jpeg",
+      "bytes": 5100
+    },
+    {
+      "id": "7:77218",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553933.jpeg",
+      "bytes": 6044
+    },
+    {
+      "id": "7:10107",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536335.jpeg",
+      "bytes": 8761
+    },
+    {
+      "id": "7:55112",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534776.jpeg",
+      "bytes": 4889
+    },
+    {
+      "id": "7:55333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534783.jpeg",
+      "bytes": 4808
+    },
+    {
+      "id": "7:30000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533980.jpeg",
+      "bytes": 4559
+    },
+    {
+      "id": "7:45333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544035.jpeg",
+      "bytes": 5167
+    },
+    {
+      "id": "7:45777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544020.jpeg",
+      "bytes": 5767
+    },
+    {
+      "id": "7:20133",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552835.jpeg",
+      "bytes": 7244
+    },
+    {
+      "id": "7:45999",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544017.jpeg",
+      "bytes": 6137
+    },
+    {
+      "id": "7:20333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553978.jpeg",
+      "bytes": 6558
+    },
+    {
+      "id": "7:44777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544534.jpeg",
+      "bytes": 5894
+    },
+    {
+      "id": "7:12888",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550656.jpeg",
+      "bytes": 8140
+    },
+    {
+      "id": "7:20012",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552837.jpeg",
+      "bytes": 5842
+    },
+    {
+      "id": "7:55321",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534780.jpeg",
+      "bytes": 7128
+    },
+    {
+      "id": "7:20789",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553980.jpeg",
+      "bytes": 5052
+    },
+    {
+      "id": "7:40013",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002549518.jpeg",
+      "bytes": 6632
+    },
+    {
+      "id": "7:15155",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532439.jpeg",
+      "bytes": 5320
+    },
+    {
+      "id": "7:10111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536331.jpeg",
+      "bytes": 4871
+    },
+    {
+      "id": "7:30555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533982.jpeg",
+      "bytes": 4953
+    },
+    {
+      "id": "7:44444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544528.jpeg",
+      "bytes": 5306
+    },
+    {
+      "id": "7:10987",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002551702.jpeg",
+      "bytes": 6850
+    },
+    {
+      "id": "7:25345",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552388.jpeg",
+      "bytes": 3775
+    },
+    {
+      "id": "7:22344",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545660.jpeg",
+      "bytes": 5292
+    },
+    {
+      "id": "7:20315",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552843.jpeg",
+      "bytes": 7922
+    },
+    {
+      "id": "7:43123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544043.jpeg",
+      "bytes": 4698
+    },
+    {
+      "id": "7:45111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544025.jpeg",
+      "bytes": 5012
+    },
+    {
+      "id": "7:13111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544595.jpeg",
+      "bytes": 4720
+    },
+    {
+      "id": "7:10109",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536327.jpeg",
+      "bytes": 7186
+    },
+    {
+      "id": "7:45555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544031.jpeg",
+      "bytes": 6585
+    },
+    {
+      "id": "7:13131",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544046.jpeg",
+      "bytes": 9431
+    },
+    {
+      "id": "7:55555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534784.jpeg",
+      "bytes": 5408
+    },
+    {
+      "id": "7:20234",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552833.jpeg",
+      "bytes": 5134
+    },
+    {
+      "id": "7:55055",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534785.jpeg",
+      "bytes": 6443
+    },
+    {
+      "id": "7:55123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534791.jpeg",
+      "bytes": 5413
+    },
+    {
+      "id": "7:11177",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544537.jpeg",
+      "bytes": 5743
+    },
+    {
+      "id": "7:55234",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534779.jpeg",
+      "bytes": 6193
+    },
+    {
+      "id": "7:43733",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544049.jpeg",
+      "bytes": 9983
+    },
+    {
+      "id": "7:22022",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545657.jpeg",
+      "bytes": 5129
+    },
+    {
+      "id": "7:77216",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552397.jpeg",
+      "bytes": 5214
+    },
+    {
+      "id": "7:25222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552398.jpeg",
+      "bytes": 5557
+    },
+    {
+      "id": "7:22777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545652.jpeg",
+      "bytes": 6044
+    },
+    {
+      "id": "7:55000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534781.jpeg",
+      "bytes": 6485
+    },
+    {
+      "id": "7:20100",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552846.jpeg",
+      "bytes": 6846
+    },
+    {
+      "id": "7:55888",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534788.jpeg",
+      "bytes": 5388
+    },
+    {
+      "id": "7:11222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544539.jpeg",
+      "bytes": 5732
+    },
+    {
+      "id": "7:10500",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536329.jpeg",
+      "bytes": 6628
+    },
+    {
+      "id": "7:45100",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544026.jpeg",
+      "bytes": 5187
+    },
+    {
+      "id": "7:13300",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544593.jpeg",
+      "bytes": 6250
+    },
+    {
+      "id": "7:22444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545650.jpeg",
+      "bytes": 5821
+    },
+    {
+      "id": "7:20213",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552836.jpeg",
+      "bytes": 7184
+    },
+    {
+      "id": "7:55444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002554293.jpeg",
+      "bytes": 7431
+    },
+    {
+      "id": "7:45444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544024.jpeg",
+      "bytes": 5591
+    },
+    {
+      "id": "7:45010",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544027.jpeg",
+      "bytes": 6267
+    },
+    {
+      "id": "7:20222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552845.jpeg",
+      "bytes": 6197
+    },
+    {
+      "id": "7:20999",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552838.jpeg",
+      "bytes": 6623
+    },
+    {
+      "id": "7:12007",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550655.jpeg",
+      "bytes": 4995
+    },
+    {
+      "id": "7:55999",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534787.jpeg",
+      "bytes": 6429
+    },
+    {
+      "id": "7:50000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552777.jpeg",
+      "bytes": 7203
+    },
+    {
+      "id": "7:12000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550666.jpeg",
+      "bytes": 6088
+    },
+    {
+      "id": "7:12345",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550657.jpeg",
+      "bytes": 7723
+    },
+    {
+      "id": "7:11234",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544532.jpeg",
+      "bytes": 5592
+    },
+    {
+      "id": "7:15000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532446.jpeg",
+      "bytes": 6686
+    },
+    {
+      "id": "7:10100",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536326.jpeg",
+      "bytes": 5374
+    },
+    {
+      "id": "7:15190",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532440.jpeg",
+      "bytes": 5246
+    },
+    {
+      "id": "7:50789",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552780.jpeg",
+      "bytes": 8884
+    },
+    {
+      "id": "7:15777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532447.jpeg",
+      "bytes": 5968
+    },
+    {
+      "id": "7:11133",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544527.jpeg",
+      "bytes": 6660
+    },
+    {
+      "id": "7:25123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552391.jpeg",
+      "bytes": 5406
+    },
+    {
+      "id": "7:30400",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533998.jpeg",
+      "bytes": 4883
+    },
+    {
+      "id": "7:30030",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533995.jpeg",
+      "bytes": 6161
+    },
+    {
+      "id": "7:22122",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545653.jpeg",
+      "bytes": 6854
+    },
+    {
+      "id": "7:50123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552778.jpeg",
+      "bytes": 5214
+    },
+    {
+      "id": "7:25333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552396.jpeg",
+      "bytes": 7461
+    },
+    {
+      "id": "7:55222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534794.jpeg",
+      "bytes": 7562
+    },
+    {
+      "id": "7:22223",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545656.jpeg",
+      "bytes": 6430
+    },
+    {
+      "id": "7:11789",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544538.jpeg",
+      "bytes": 6159
+    },
+    {
+      "id": "7:20020",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552840.jpeg",
+      "bytes": 5390
+    },
+    {
+      "id": "7:44111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544535.jpeg",
+      "bytes": 7674
+    },
+    {
+      "id": "7:11900",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544525.jpeg",
+      "bytes": 6787
+    },
+    {
+      "id": "7:13012",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544048.jpeg",
+      "bytes": 5598
+    },
+    {
+      "id": "7:22456",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545645.jpeg",
+      "bytes": 7811
+    },
+    {
+      "id": "7:23444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544033.jpeg",
+      "bytes": 7807
+    },
+    {
+      "id": "7:55012",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534786.jpeg",
+      "bytes": 6501
+    },
+    {
+      "id": "7:30110",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533985.jpeg",
+      "bytes": 4581
+    },
+    {
+      "id": "7:77077",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552392.jpeg",
+      "bytes": 5123
+    },
+    {
+      "id": "7:12012",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550661.jpeg",
+      "bytes": 5177
+    },
+    {
+      "id": "7:11122",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544541.jpeg",
+      "bytes": 4664
+    },
+    {
+      "id": "7:20555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552832.jpeg",
+      "bytes": 5952
+    },
+    {
+      "id": "7:11123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544523.jpeg",
+      "bytes": 6649
+    },
+    {
+      "id": "7:45380",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544037.jpeg",
+      "bytes": 4882
+    },
+    {
+      "id": "7:23347",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544030.jpeg",
+      "bytes": 6481
+    },
+    {
+      "id": "7:10555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536341.jpeg",
+      "bytes": 5299
+    },
+    {
+      "id": "7:10789",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536328.jpeg",
+      "bytes": 6104
+    },
+    {
+      "id": "7:13777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544596.jpeg",
+      "bytes": 5077
+    },
+    {
+      "id": "7:12456",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550654.jpeg",
+      "bytes": 5727
+    },
+    {
+      "id": "7:15150",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532436.jpeg",
+      "bytes": 5734
+    },
+    {
+      "id": "7:45000",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544018.jpeg",
+      "bytes": 6447
+    },
+    {
+      "id": "7:10101",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536334.jpeg",
+      "bytes": 5959
+    },
+    {
+      "id": "7:20300",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552849.jpeg",
+      "bytes": 6736
+    },
+    {
+      "id": "7:30888",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533997.jpeg",
+      "bytes": 3783
+    },
+    {
+      "id": "7:20099",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552841.jpeg",
+      "bytes": 6418
+    },
+    {
+      "id": "7:55422",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534790.jpeg",
+      "bytes": 5256
+    },
+    {
+      "id": "7:15223",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532437.jpeg",
+      "bytes": 5291
+    },
+    {
+      "id": "7:13690",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544598.jpeg",
+      "bytes": 5672
+    },
+    {
+      "id": "7:30333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533984.jpeg",
+      "bytes": 4828
+    },
+    {
+      "id": "7:20400",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552834.jpeg",
+      "bytes": 5206
+    },
+    {
+      "id": "7:45123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544023.jpeg",
+      "bytes": 4557
+    },
+    {
+      "id": "7:65555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544041.jpeg",
+      "bytes": 6342
+    },
+    {
+      "id": "7:12124",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550659.jpeg",
+      "bytes": 6186
+    },
+    {
+      "id": "7:22339",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545648.jpeg",
+      "bytes": 6621
+    },
+    {
+      "id": "7:22111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545658.jpeg",
+      "bytes": 8108
+    },
+    {
+      "id": "7:30777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533987.jpeg",
+      "bytes": 5197
+    },
+    {
+      "id": "7:77177",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553932.jpeg",
+      "bytes": 5367
+    },
+    {
+      "id": "7:22221",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545647.jpeg",
+      "bytes": 7029
+    },
+    {
+      "id": "7:22555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545655.jpeg",
+      "bytes": 4291
+    },
+    {
+      "id": "7:77333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553934.jpeg",
+      "bytes": 4482
+    },
+    {
+      "id": "7:77255",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553935.jpeg",
+      "bytes": 4912
+    },
+    {
+      "id": "7:44022",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544531.jpeg",
+      "bytes": 6411
+    },
+    {
+      "id": "7:20111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002553976.jpeg",
+      "bytes": 5455
+    },
+    {
+      "id": "7:12444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550665.jpeg",
+      "bytes": 5721
+    },
+    {
+      "id": "7:12777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550652.jpeg",
+      "bytes": 7491
+    },
+    {
+      "id": "7:12222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550667.jpeg",
+      "bytes": 5530
+    },
+    {
+      "id": "7:30600",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533974.jpeg",
+      "bytes": 5635
+    },
+    {
+      "id": "7:15444",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552000.jpeg",
+      "bytes": 6496
+    },
+    {
+      "id": "7:44800",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544543.jpeg",
+      "bytes": 4995
+    },
+    {
+      "id": "7:30222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533991.jpeg",
+      "bytes": 5136
+    },
+    {
+      "id": "7:11106",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544519.jpeg",
+      "bytes": 5828
+    },
+    {
+      "id": "7:65013",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544044.jpeg",
+      "bytes": 6527
+    },
+    {
+      "id": "7:45045",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544028.jpeg",
+      "bytes": 5596
+    },
+    {
+      "id": "7:10193",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536337.jpeg",
+      "bytes": 7095
+    },
+    {
+      "id": "7:22190",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002545663.jpeg",
+      "bytes": 5251
+    },
+    {
+      "id": "7:45222",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544021.jpeg",
+      "bytes": 6528
+    },
+    {
+      "id": "7:13234",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544597.jpeg",
+      "bytes": 8028
+    },
+    {
+      "id": "7:13100",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544051.jpeg",
+      "bytes": 6541
+    },
+    {
+      "id": "7:10456",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536323.jpeg",
+      "bytes": 5275
+    },
+    {
+      "id": "7:12321",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550649.jpeg",
+      "bytes": 6423
+    },
+    {
+      "id": "7:15555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002532442.jpeg",
+      "bytes": 4412
+    },
+    {
+      "id": "7:44190",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544536.jpeg",
+      "bytes": 5839
+    },
+    {
+      "id": "7:12123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550669.jpeg",
+      "bytes": 4801
+    },
+    {
+      "id": "7:30190",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533976.jpeg",
+      "bytes": 5006
+    },
+    {
+      "id": "7:23555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002554473.jpeg",
+      "bytes": 7802
+    },
+    {
+      "id": "7:30200",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533983.jpeg",
+      "bytes": 3984
+    },
+    {
+      "id": "7:13133",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544050.jpeg",
+      "bytes": 6666
+    },
+    {
+      "id": "7:44333",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544526.jpeg",
+      "bytes": 4866
+    },
+    {
+      "id": "7:40123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002549517.jpeg",
+      "bytes": 6814
+    },
+    {
+      "id": "7:12666",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002550664.jpeg",
+      "bytes": 4380
+    },
+    {
+      "id": "7:55777",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534789.jpeg",
+      "bytes": 5617
+    },
+    {
+      "id": "7:44555",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002544533.jpeg",
+      "bytes": 5432
+    },
+    {
+      "id": "7:15153",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002552003.jpeg",
+      "bytes": 5301
+    },
+    {
+      "id": "7:55789",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002534782.jpeg",
+      "bytes": 4575
+    },
+    {
+      "id": "7:30111",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533992.jpeg",
+      "bytes": 5010
+    },
+    {
+      "id": "7:10300",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002536322.jpeg",
+      "bytes": 4990
+    },
+    {
+      "id": "7:30123",
+      "status": "disponível",
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/fotos/ac/10002533975.jpeg",
+      "bytes": 5458
+    }
+  ]
+}

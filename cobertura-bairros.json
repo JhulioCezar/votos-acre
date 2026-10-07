@@ -1,0 +1,194 @@
+[
+  {
+    "codigo": "01120",
+    "municipio": "ACRELÂNDIA",
+    "secoes": 45,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01570",
+    "municipio": "ASSIS BRASIL",
+    "secoes": 28,
+    "secoesComBairro": 17,
+    "bairrosIdentificados": 3,
+    "poligonosDisponiveis": 5
+  },
+  {
+    "codigo": "01058",
+    "municipio": "BRASILÉIA",
+    "secoes": 74,
+    "secoesComBairro": 59,
+    "bairrosIdentificados": 6,
+    "poligonosDisponiveis": 10
+  },
+  {
+    "codigo": "01007",
+    "municipio": "BUJARI",
+    "secoes": 41,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01015",
+    "municipio": "CAPIXABA",
+    "secoes": 34,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01074",
+    "municipio": "CRUZEIRO DO SUL",
+    "secoes": 256,
+    "secoesComBairro": 256,
+    "bairrosIdentificados": 26,
+    "poligonosDisponiveis": 0,
+    "fonte": "TSE · cadastro 2026",
+    "mapa": "Pontos dos prédios; sem limites de bairros",
+    "categoriasRurais": [
+      "ZONA RURAL"
+    ]
+  },
+  {
+    "codigo": "01112",
+    "municipio": "EPITACIOLÂNDIA",
+    "secoes": 54,
+    "secoesComBairro": 43,
+    "bairrosIdentificados": 6,
+    "poligonosDisponiveis": 9
+  },
+  {
+    "codigo": "01139",
+    "municipio": "FEIJÓ",
+    "secoes": 88,
+    "secoesComBairro": 67,
+    "bairrosIdentificados": 7,
+    "poligonosDisponiveis": 13
+  },
+  {
+    "codigo": "01104",
+    "municipio": "JORDÃO",
+    "secoes": 24,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01554",
+    "municipio": "MANOEL URBANO",
+    "secoes": 31,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01040",
+    "municipio": "MARECHAL THAUMATURGO",
+    "secoes": 47,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01090",
+    "municipio": "MÂNCIO LIMA",
+    "secoes": 57,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01511",
+    "municipio": "PLÁCIDO DE CASTRO",
+    "secoes": 54,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01023",
+    "municipio": "PORTO ACRE",
+    "secoes": 60,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01066",
+    "municipio": "PORTO WALTER",
+    "secoes": 34,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01392",
+    "municipio": "RIO BRANCO",
+    "secoes": 908,
+    "secoesComBairro": 861,
+    "bairrosIdentificados": 76,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01082",
+    "municipio": "RODRIGUES ALVES",
+    "secoes": 55,
+    "secoesComBairro": 24,
+    "bairrosIdentificados": 3,
+    "poligonosDisponiveis": 5
+  },
+  {
+    "codigo": "01031",
+    "municipio": "SANTA ROSA DO PURUS",
+    "secoes": 16,
+    "secoesComBairro": 0,
+    "bairrosIdentificados": 0,
+    "poligonosDisponiveis": 0
+  },
+  {
+    "codigo": "01457",
+    "municipio": "SENA MADUREIRA",
+    "secoes": 120,
+    "secoesComBairro": 107,
+    "bairrosIdentificados": 13,
+    "poligonosDisponiveis": 24
+  },
+  {
+    "codigo": "01538",
+    "municipio": "SENADOR GUIOMARD",
+    "secoes": 81,
+    "secoesComBairro": 81,
+    "bairrosIdentificados": 16,
+    "poligonosDisponiveis": 0,
+    "fonte": "TSE · cadastro 2026",
+    "mapa": "Pontos dos prédios; sem limites de bairros",
+    "categoriasRurais": [
+      "ZONA RURAL",
+      "ZONA RURAL - KM 52 BOCA DO ACRE",
+      "ZONA RURAL - KM 70 BOCA DO ACRE",
+      "ZONA RURAL - PIRA DE RA",
+      "ZONA RURAL PA LIMEIRA",
+      "ZONA RURAL PSDA BONAL",
+      "ZONA RURAL RML PROGRESSO"
+    ]
+  },
+  {
+    "codigo": "01473",
+    "municipio": "TARAUACÁ",
+    "secoes": 110,
+    "secoesComBairro": 88,
+    "bairrosIdentificados": 6,
+    "poligonosDisponiveis": 7
+  },
+  {
+    "codigo": "01490",
+    "municipio": "XAPURI",
+    "secoes": 53,
+    "secoesComBairro": 46,
+    "bairrosIdentificados": 5,
+    "poligonosDisponiveis": 10
+  }
+]
