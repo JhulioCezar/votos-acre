@@ -1,56 +1,62 @@
-# Votos Acre — prestação de contas, versão de cobertura parcial
+# Votos Acre — consulta com dados divulgados e estimativas brutas
 
-Coleta de prestação de contas: 13/10/2026. A fotografia eleitoral permanece em 05/10/2026, conforme o painel original. Não há atualização automática. O domínio e a aplicação dedicada a Antônio Pedro não foram alterados.
+Coleta financeira e legislativa: 13/10/2026. Eleição: fotografia de 05/10/2026. Sem atualização automática. Os valores são nominais, sem correção por inflação. O painel eleitoral anterior, o domínio e a aplicação exclusiva de Antônio Pedro foram preservados.
 
-## Como publicar
+## Publicação
 
-1. Faça uma cópia do repositório atual antes de substituir arquivos.
-2. Extraia o ZIP. Para atualizar somente o site publicado, substitua `index.html` na raiz do repositório `votos-acre` e confirme o commit. O HTML contém os dados e o código, sem depender de uma consulta a APIs financeiras no navegador.
-3. Para manter o projeto reproduzível, envie também `src/`, `build.py`, `prestacao-contas.json`, `conferencia-prestacao-contas.json` e este documento. Os demais arquivos do pacote preservam a base anterior. Mantenha `CNAME` e `.nojekyll`.
-4. Aguarde a execução de Pages e abra o menu **Prestação de contas**. O endereço direto termina em `#pagina=prestacao`.
+Extraia o ZIP e substitua `index.html` na raiz do repositório `votos-acre`. O HTML contém os dados e funciona sem consultar APIs financeiras no navegador. Para manter o código-fonte atualizado, envie também `src/`, `build.py`, `prestacao-contas.json`, `conferencia-prestacao-contas.json` e este documento. Preserve `CNAME` e `.nojekyll`. O index tem aproximadamente 17 MB, abaixo dos 25 MB do upload pelo navegador. Não envie o ZIP como página: extraia primeiro.
 
-O arquivo index.html tem aproximadamente 14 MB, abaixo do limite de 25 MB por arquivo do upload pelo navegador. Não envie o ZIP como substituto do index: é necessário extrair os arquivos.
+Abra o menu **Prestação de contas**, ou acrescente `#pagina=prestacao` ao endereço. A abertura retorna ao resumo geral, com filtros e totais por instituição. As tabelas detalhadas aparecem ao escolher uma pessoa ou instituição. Fontes e critérios ficam em uma seção expansível. A comparação de políticos pode ser aberta sem selecionar uma pessoa individualmente.
 
-## O que foi integrado
+## Como ler os valores
 
-- Filtros por instituição, situação institucional/eleitoral, nome, pessoa e ano financeiro.
-- Visão conjunta de cotas e folha bruta identificadas, com total explicitamente parcial. Valores sem cobertura são “não apurado”.
-- Cotas da Câmara nos arquivos 2008–2026, para os 91 cadastros históricos recuperados do Acre; registros encontrados para parte deles. CEAPS do Senado 2010–2026, consultando cadastros históricos pela UF dos mandatos.
-- Folha de governador/vice-governador: consulta mensal 2002–outubro de 2026 para os nomes identificados Jorge Viana, Tião Viana, Binho Marques, Gladson Cameli e Mailza Assis. Competências ausentes não são zero. Agosto–outubro de 2026 não têm registros localizados na coleta. Não é uma coleta de todos os ocupantes de vice-governador.
-- Trajetórias Câmara/ALEAC/Senado e vínculos de governador/vice registrados na folha. A data de admissão da folha não comprova mandato completo; eventos de histórico não comprovam exercício contínuo. Licenças e afastamentos exigem leitura da fonte.
-- Situação de candidaturas da fotografia do TSE; mandatos legislativos futuros identificados como previstos. Segundo turno não é tratado como eleição concluída.
-- Autoria/coautoria de projetos e propostas da Câmara, Senado e ALEAC. Tramitações e registros de votação estaduais têm sua cobertura informada. O serviço de autoria do Senado é legado e pode ter lacunas.
-- Comparação da folha bruta identificada com renda mensal inteiramente poupada; cenário separado de subsídio federal/estadual constante, por mês e de 1 a 4 anos, ou 8 anos para senador. Valores nominais, sem correção de inflação; a renda de referência é o mínimo de 2026, R$ 1.621.
-- Impressão/PDF inclui todas as páginas das tabelas da seleção e expande os detalhes. Pode ser extenso: filtre uma pessoa e/ou ano antes de imprimir.
+- **Remuneração divulgada em folha:** bruto, descontos e líquido encontrados no portal do Executivo. A folha pode conter extras e acertos. Bruto e líquido não são somados.
+- **Subsídio estimado nos meses sem folha:** cálculo a partir das leis de cada época e dos períodos institucionais registrados. É bruto, sem descontos; não comprova pagamento individual. Não inclui 13º, férias, benefícios, ajuda de custo, extras ou verbas de gabinete.
+- **Cotas e gabinete registrados:** despesas institucionais publicadas; não são renda pessoal. Verba disponível é autorização; somente o gasto publicado entra na base financeira.
+- **Base financeira parcial:** remuneração divulgada, mais estimativas dos meses sem folha, mais cotas e gastos de gabinete registrados. Folha e estimativa para a mesma pessoa, cargo e mês não são somadas duas vezes. Gastos sem cobertura não são estimados como zero. Esse total não é custo público completo nem valor comprovadamente recebido pelo político.
 
-## Limites de cobertura — não chamar de custo completo
+Estimativas consideram meses e dias efetivamente incluídos no período registrado. Meses incompletos são proporcionais aos dias do mês civil. O limite é 13/10/2026, inclusive. Licenças remuneradas, afastamentos, descontos por faltas e complementações podem alterar o pagamento real. Eventos da Câmara não são usados para presumir exercício indefinido depois do término da legislatura. Vínculos antigos do Executivo não são prolongados até hoje.
 
-Folhas individuais dos legisladores, gastos efetivos e encargos das equipes de gabinete, discriminação das rubricas e benefícios, despesas operacionais do Executivo e ALEAC, deliberações federais, conversão em lei, resultados do Executivo e histórico de todas as vice-governadorias ainda não estão apurados. O módulo pode ser publicado como **consulta de dados com cobertura parcial**, mas não como prestação de contas financeira completa ou ranking de eficiência.
+Mandatos futuros não entram na base até hoje. A consulta individual traz uma **projeção separada** de mandato legislativo futuro, com o salário atual constante e sem reajustes futuros. Essa projeção não representa gasto ocorrido.
 
-Subsídio legal e limite de gabinete não são remuneração individual comprovadamente paga. Bruto e líquido não são somados. A folha bruta pode incluir acertos e extras. Restituições de cotas são apresentadas separadamente, sem desconto automático que possa duplicar abatimentos. Créditos negativos da fonte são preservados.
+## Cobertura das tabelas legais
 
-União de cadastros: nome civil completo normalizado apenas para acentos, caixa e espaços. Mailza Assis da Silva / Mailza Assis Cameli é uma exceção documentada pela trajetória oficial do Governo e registros do Senado. Grafias divergentes ou nomes abreviados não são fundidos automaticamente: pode haver perfis separados da mesma pessoa. O número de perfis não deve ser tratado como contagem definitiva de políticos distintos. Coautorias são contadas individualmente; não somar esses números como quantidade única de projetos.
+- Deputados estaduais: valores e vigências explicitados na Lei estadual 4.136/2023, de janeiro de 2023 em diante. Tabelas estaduais anteriores ainda não validadas na base: as lacunas são mostradas, sem aplicar o salário atual retroativamente nem presumir automaticamente 75% do salário federal.
+- Deputados federais e senadores: Decretos Legislativos 112/2007 (desde abril), 805/2010 (desde fevereiro de 2011), 276/2014 (desde fevereiro de 2015) e 172/2022 (reajustes de janeiro e abril de 2023, fevereiro de 2024 e fevereiro de 2025). Períodos anteriores à cobertura permanecem lacunas.
+- Governador e vice: leis anuais 3.601/2020, 3.669/2020 e 3.886/2021 para 2020–2022; cálculo desde abril de 2023 com Lei 4.063/2022 e tabela da magistratura da Lei 4.134/2023; Lei 4.279/2023 para 2024, Lei 4.523/2025 para 2025 e Lei 4.752/2025 para 2026. Janeiro–março de 2023 e períodos mais antigos sem tabela numérica validada permanecem lacunas no modelo. Folhas publicadas continuam disponíveis mesmo quando falta uma tabela do modelo. Vice: percentual oficial de 95% para os períodos modelados; percentuais históricos de outros períodos não são presumidos iguais.
 
-Um registro inexistente de votação não demonstra que uma matéria nunca foi deliberada. “Dias sem andamento registrado” não demonstra atraso irregular. Contagens não autorizam conclusão sobre retorno dos impostos ou mérito da atuação.
+Exemplo conferido: Adailton Cruz em 2025 = janeiro de R$ 31.948,49 + 11 meses de R$ 33.448,49 = **R$ 399.881,88 brutos estimados**. Seu primeiro período começa em fevereiro de 2023. O período de 2027–2031 é futuro e é apresentado somente na projeção separada.
 
-## Atualização e conferência
+## Comparar políticos
 
-Atualização de pessoas, busca e referências financeiras:
+Expanda **Comparar dois ou mais políticos**, escolha cada nome e clique **Adicionar à comparação**. Para a razão por projeto, selecione um ano no filtro principal. A tabela mostra folha divulgada, subsídio estimado, base parcial, projetos apresentados e projetos com votação registrada. Pessoas podem ser removidas individualmente. A instituição e o ano dos filtros também se aplicam à comparação.
 
-- A seleção inicial mostra apenas políticos em exercício na coleta ou eleitos na fotografia do TSE. A opção de histórico mantém políticos com registros de mandato; cadastros sem comprovação de exercício, eleição ou registros institucionais suficientes são omitidos da seleção. Funcionários e assessores não são opções do seletor. Para ALEAC, o campo “ativo” isolado não comprova mandato atual: é exigido também um período que contenha 13/10/2026.
-- A busca aceita nomes públicos e civis, sem distinguir acentos ou caixa, e combina palavras. Os filtros de instituição e situação continuam aplicados. Quando ocultarem resultados, o painel explica e oferece o botão para ampliar a busca.
-- O perfil apresenta o subsídio bruto legal de referência, incluindo o estadual da Lei 4.136/2023, separado da folha efetivamente registrada. Não se presume pagamento individual nem se soma a referência ao custo histórico.
-- Verba de gabinete da Câmara, janeiro–julho de 2026: coletados valores disponíveis e gastos publicados para os oito deputados em exercício. A verba disponível é autorização antes de gastos; o gasto agregado é exibido e incorporado ao total parcial, sem listar assessores e sem equivalência a renda pessoal. Gabinetes estaduais e outros períodos permanecem não apurados. Fonte: páginas oficiais `/deputados/{id}/verba-gabinete?ano=2026`.
-- Conferidos: Jarude com busca por nome, subsídio estadual em seu perfil, filtro institucional incompatível e ampliação da busca, totais de gabinete de Roberto Duarte, sintaxe, reconciliação monetária e cálculos de tempo.
+**Razão por projeto = subsídio bruto estimado do ano ÷ quantidade de projetos do período.** Não são incluídas verbas de gabinete nesse numerador. Valor sem estimativa, período sem cobertura ou quantidade zero não gera uma divisão. Não se presume custo zero quando faltam dados.
 
-Os novos registros de gasto agregado da Câmara complementam a lacuna de gabinete descrita anteriormente neste documento. Folhas detalhadas, encargos, outros cargos e cobertura histórica completa continuam ausentes. Os subsídios legais de referência não são pagamentos confirmados.
+Essa razão não demonstra quanto custou produzir um projeto, sua importância, aprovação, resultado, qualidade ou eficiência. Autoria/coautoria incluída: uma matéria pode aparecer para vários autores. Projetos são PL/PLC/PLP/PEC/PDL/PDC/PR/PRC/PLS/PRS, conforme a casa, não todo requerimento ou indicação. Para comparação, prefira mesma casa e ano. O ano oficial de uma proposição pode não ser o ano em que cada coautor aderiu a ela.
 
-Atualização da apresentação do tempo: a comparação agora mostra anos arredondados e tempo detalhado em anos, meses, dias e horas. Fração anual de 0,5 ou mais arredonda para o próximo inteiro. O detalhamento usa o resultado original, sem primeiro arredondar as casas decimais: 12 meses/ano, 30 dias/mês, 24 horas/dia, última fração de hora para cima. Trata-se de tempo equivalente de poupança. Não são horas de expediente nem duração exata em calendário civil. Cálculos aplicados às folhas registradas e aos cenários de subsídio.
+Votações estaduais: a base disponível vai de 11/06/2025 a 10/08/2026. A contagem anual considera apenas projetos com registro nesse intervalo, não todas as deliberações do ano. Votações federais e leis resultantes ainda não consolidadas. Ausência de registro não prova que nunca houve votação. Governador não é avaliado como legislador com essa base.
 
-Exemplo testado: folha bruta de Mailza em 2026, R$ 425.762,93, dividida por renda mensal de R$ 1.621: 262,654491 meses, ou 21,887874 anos. Apresentação: 22 anos; detalhamento: 21 anos, 10 meses, 19 dias e 16 horas. A folha selecionada reúne pagamentos como vice-governadora e governadora, inclusive possíveis acertos; não equivale a sete meses exclusivamente como governadora.
+## Comparar com a renda de um trabalhador
 
-`prestacao-contas.json` é a base incorporada no build. Rode `python build.py` para regenerar o index. O build também reconcilia os 323 candidatos e 2.270 seções da base eleitoral. A coleta não é executada pelo build.
+Informe a renda mensal que seria inteiramente poupada; referência inicial: mínimo de 2026, R$ 1.621. A interface mostra **anos aproximados** e **tempo necessário para juntar o valor**, sem a antiga coluna de meses decimais. Fração de ano de 0,5 ou mais arredonda para cima.
 
-`conferencia-prestacao-contas.json` registra a validação de identidades, valores em centavos, somas mensais/anuais, bruto menos descontos igual ao líquido, tamanho do HTML e preservação do arquivo original. Os arquivos brutos de coleta e identificadores pessoais de terceiros não estão no pacote publicado.
+O detalhamento usa o resultado original: 12 meses/ano, 30 dias/mês, 24 horas/dia; a última fração de hora arredonda para cima. É tempo equivalente de poupança, não jornada de trabalho nem calendário civil exato. A comparação anual do subsídio estimado usa as leis de cada época. O cenário de subsídio constante é separado e usa os valores de referência atuais.
 
-Principais fontes: Câmara (Dados Abertos e CEAP); Senado (Dados Abertos legislativos e CEAPS); SAPL/ALEAC; Portal de Transparência do Acre; TSE. Cada linha apresenta seu link institucional. Os dados são uma fotografia, sem sincronização posterior ao upload.
+## Bases e limites restantes
+
+Câmara: 91 cadastros históricos do Acre; CEAP 2008–2026, com registros encontrados para parte deles. Senado: 47 cadastros ligados ao Acre identificados pela UF dos mandatos; CEAPS 2010–2026. ALEAC: mandatos, autoria e tramitação do SAPL. Executivo: folhas mensais de 2002 a outubro de 2026 consultadas para Jorge Viana, Tião Viana, Binho Marques, Gladson Cameli e Mailza Assis; competências ausentes não são zero. Gabinete da Câmara: janeiro–julho de 2026 para os oito deputados em exercício, valores disponíveis e gastos publicados, sem nomes de servidores.
+
+A lista inicial mostra políticos em exercício ou eleitos na fotografia. O histórico é opcional. A busca aceita nome público/civil e combina palavras, sem distinguir acentos ou caixa; outros filtros podem ocultar resultados. Há um botão para ampliar a busca. Não são listados servidores e assessores como políticos. “Ativo” no SAPL isoladamente não comprova mandato atual: também é exigida a data do período.
+
+União de cadastros pelo nome civil completo, normalizado para acentos, caixa e espaços. Exceção documentada: Mailza Assis da Silva / Mailza Assis Cameli. Grafias divergentes ou abreviações podem manter a mesma pessoa em perfis diferentes; não tratar a contagem histórica como número definitivo de pessoas distintas. Licenças e substituições exigem leitura das fontes.
+
+Custos detalhados e encargos das equipes, benefícios, folha individual legislativa, despesas operacionais do Executivo e ALEAC, histórico completo das vice-governadorias, resultados de governo, votações federais e leis resultantes continuam incompletos. A aplicação oferece uma base indicativa, não prestação financeira auditada de cada centavo.
+
+Restituições das cotas são exibidas separadamente, sem abatimento automático que possa duplicar créditos. Registros negativos das fontes são preservados. Fontes ficam junto das tabelas. Não há sincronização automática após a publicação.
+
+## Reproduzir e verificar
+
+`prestacao-contas.json` inclui as estimativas calculadas e as lacunas. Rode `python build.py` para regenerar o HTML a partir dos arquivos de origem do pacote; isso não faz uma nova coleta. O build reconcilia a votação dos 323 candidatos e 2.270 seções. `conferencia-prestacao-contas.json` registra conferências financeiras e estruturais. Foram testados limites de reajuste, anos completos e parciais, ausência de duplicação mensal, substituição da estimativa por folha no mesmo mês/cargo, falta de dados versus zero, exclusão de futuros mandatos e razão com projetos do ano selecionado. Arquivos brutos e identificadores pessoais de terceiros não estão no pacote publicado.
+
+Impressão/PDF inclui as tabelas da seleção e expande os detalhes. Escolha pessoa, ano ou instituição para reduzir o tamanho do relatório.
