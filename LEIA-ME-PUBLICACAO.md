@@ -64,3 +64,13 @@ Impressão/PDF inclui as tabelas da seleção e expande os detalhes. Escolha pes
 
 A consulta individual mostra a fórmula subsídio bruto estimado ÷ projetos de autoria/coautoria, para o ano escolhido e para cada período legislativo identificado. É uma curiosidade aritmética, não o custo real de elaboração de um projeto. Cotas e gabinete não entram. A estimativa usa as leis e datas do exercício, sem descontos; não comprova pagamento recebido. Períodos incompletos, meses parciais e lacunas legais são informados. Projetos sem data exata usam o ano da matéria, com aviso. Mandatos futuros ficam fora. Sem salário disponível ou sem projetos, não há divisão.
 
+# Emendas federais e valores por extenso
+
+Execução declarada: relatórios disponibilizados, excluindo rascunhos, registros sem data e datas posteriores à coleta. Usa o último relatório novo por executor; sem relatório novo publicado, usa o último legado datado. Valores cumulativos não se somam entre versões. A informação é declarada pelo beneficiário e não equivale a auditoria, conclusão física ou contas aprovadas.
+
+O cabeçalho identifica as fontes públicas e separa registros de estimativas. Os cartões monetários exibem valores por extenso, recalculados pelos filtros.
+
+Emendas: arquivo único CGU coletado em 13/10/2026, com localidade de aplicação no Acre, histórico 2014–2026. O resumo estadual inclui todos os autores e tipos, inclusive bancada, relator e não identificados. Não é exclusivamente dinheiro recebido pelo Executivo estadual. Pago inclui restos a pagar pagos; etapas contábeis não são somadas. Nome de autor é vinculado apenas por correspondência única de nome público ou civil da base. Alterações de autoria e nomes sem correspondência ficam no total geral, sem atribuição individual presumida.
+
+Transferegov: 889 planos de transferências especiais, consultados por beneficiários com UF AC, com planos de trabalho e motivos de impedimento. Situação legado é preservada. Plano aprovado não comprova aplicação física. Devoluções de outras modalidades e aplicação física completa não foram apuradas; não afirmar devolução por falta de projeto sem registro do motivo. A consulta de devoluções desta modalidade não retornou registros nesta coleta. Totais dos planos não são somados à CGU. Não publicar os arquivos brutos locais com dados bancários e responsáveis: o pacote contém somente recortes necessários.
+
