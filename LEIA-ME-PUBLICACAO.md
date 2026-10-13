@@ -60,3 +60,7 @@ Restituições das cotas são exibidas separadamente, sem abatimento automático
 `prestacao-contas.json` inclui as estimativas calculadas e as lacunas. Rode `python build.py` para regenerar o HTML a partir dos arquivos de origem do pacote; isso não faz uma nova coleta. O build reconcilia a votação dos 323 candidatos e 2.270 seções. `conferencia-prestacao-contas.json` registra conferências financeiras e estruturais. Foram testados limites de reajuste, anos completos e parciais, ausência de duplicação mensal, substituição da estimativa por folha no mesmo mês/cargo, falta de dados versus zero, exclusão de futuros mandatos e razão com projetos do ano selecionado. Arquivos brutos e identificadores pessoais de terceiros não estão no pacote publicado.
 
 Impressão/PDF inclui as tabelas da seleção e expande os detalhes. Escolha pessoa, ano ou instituição para reduzir o tamanho do relatório.
+# Valor por projeto
+
+A consulta individual mostra a fórmula subsídio bruto estimado ÷ projetos de autoria/coautoria, para o ano escolhido e para cada período legislativo identificado. É uma curiosidade aritmética, não o custo real de elaboração de um projeto. Cotas e gabinete não entram. A estimativa usa as leis e datas do exercício, sem descontos; não comprova pagamento recebido. Períodos incompletos, meses parciais e lacunas legais são informados. Projetos sem data exata usam o ano da matéria, com aviso. Mandatos futuros ficam fora. Sem salário disponível ou sem projetos, não há divisão.
+
